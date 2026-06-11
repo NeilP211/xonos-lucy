@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T20:10:38.747Z",
+  "updated_at": "2026-06-11T22:47:28.688Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -562,6 +562,333 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27311eff7637d3aa7f8d8c990a3",
       "uri": "spotify:track:5W1bHlFGv5jJw1xyWQJlrJ",
       "duration_ms": 196920
+    },
+    {
+      "played_at": "2026-06-11T20:12:38.251Z",
+      "name": "2:12 AM",
+      "artists": [
+        "Rauw Alejandro",
+        "LATIN MAFIA"
+      ],
+      "album": "Cosa Nuestra",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+      "uri": "spotify:track:1UTLq40xh63wMrHELGnKWW",
+      "duration_ms": 211918
+    },
+    {
+      "played_at": "2026-06-11T20:21:55.151Z",
+      "name": "Naked In Manhattan",
+      "artists": [
+        "Chappell Roan"
+      ],
+      "album": "The Rise and Fall of a Midwest Princess",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+      "uri": "spotify:track:4LKYOetuIF5c9XjeLBL9av",
+      "duration_ms": 211057
+    },
+    {
+      "played_at": "2026-06-11T20:27:32.703Z",
+      "name": "Femininomenon",
+      "artists": [
+        "Chappell Roan"
+      ],
+      "album": "The Rise and Fall of a Midwest Princess",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+      "uri": "spotify:track:53IRnAWx13PYmoVYtemUBS",
+      "duration_ms": 219710
+    },
+    {
+      "played_at": "2026-06-11T20:30:47.304Z",
+      "name": "BIAF <3",
+      "artists": [
+        "Young Miko"
+      ],
+      "album": "BIAF <3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de49a2919ae45c58f31b3a83",
+      "uri": "spotify:track:2niaqfUN4XWJ6BuDEm77Vh",
+      "duration_ms": 170434
+    },
+    {
+      "played_at": "2026-06-11T20:34:06.976Z",
+      "name": "BIAF <3",
+      "artists": [
+        "Young Miko"
+      ],
+      "album": "BIAF <3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de49a2919ae45c58f31b3a83",
+      "uri": "spotify:track:2niaqfUN4XWJ6BuDEm77Vh",
+      "duration_ms": 170434
+    },
+    {
+      "played_at": "2026-06-11T20:37:20.457Z",
+      "name": "Guess featuring billie eilish",
+      "artists": [
+        "Charli xcx",
+        "Billie Eilish"
+      ],
+      "album": "Brat and it’s completely different but also still brat",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00",
+      "uri": "spotify:track:0IsIY8pfu1yaGkPUD7pkDx",
+      "duration_ms": 143330
+    },
+    {
+      "played_at": "2026-06-11T20:40:20.594Z",
+      "name": "LUNCH",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "album": "HIT ME HARD AND SOFT",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+      "uri": "spotify:track:629DixmZGHc7ILtEntuiWE",
+      "duration_ms": 179586
+    },
+    {
+      "played_at": "2026-06-11T20:42:57.668Z",
+      "name": "Rush",
+      "artists": [
+        "Troye Sivan"
+      ],
+      "album": "Something To Give Each Other",
+      "image": "https://i.scdn.co/image/ab67616d0000b27367103283a4eb57578a428252",
+      "uri": "spotify:track:4ZnkygoWLzcGbQYCm3lkae",
+      "duration_ms": 156391
+    },
+    {
+      "played_at": "2026-06-11T20:54:55.090Z",
+      "name": "BIAF <3",
+      "artists": [
+        "Young Miko"
+      ],
+      "album": "BIAF <3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de49a2919ae45c58f31b3a83",
+      "uri": "spotify:track:2niaqfUN4XWJ6BuDEm77Vh",
+      "duration_ms": 170434
+    },
+    {
+      "played_at": "2026-06-11T21:01:03.925Z",
+      "name": "**RIDIN (with LIL WAYNE)**",
+      "artists": [
+        "Jessie Reyez",
+        "Lil Wayne"
+      ],
+      "album": "PAID IN MEMORIES",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735a2d0fc7a02c269ac9557cdc",
+      "uri": "spotify:track:1dxUGC87QHVjKwE8COBJmz",
+      "duration_ms": 202427
+    },
+    {
+      "played_at": "2026-06-11T21:03:48.630Z",
+      "name": "Von dutch",
+      "artists": [
+        "Charli xcx"
+      ],
+      "album": "BRAT",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+      "uri": "spotify:track:3Y1EvIgEVw51XtgNEgpz5c",
+      "duration_ms": 164284
+    },
+    {
+      "played_at": "2026-06-11T21:14:09.478Z",
+      "name": "Sugar On My Tongue",
+      "artists": [
+        "Tyler, The Creator"
+      ],
+      "album": "DON'T TAP THE GLASS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b7fbb849ed845ddedcce346",
+      "uri": "spotify:track:6xV7Be6XEvkSnighmh2Tzj",
+      "duration_ms": 153332
+    },
+    {
+      "played_at": "2026-06-11T21:20:33.107Z",
+      "name": "Dear god",
+      "artists": [
+        "Tate McRae"
+      ],
+      "album": "So Close To What",
+      "image": "https://i.scdn.co/image/ab67616d0000b27330420759f1a2cd4923c5c65b",
+      "uri": "spotify:track:2ETQsbiuGm2WLOSOr2I19A",
+      "duration_ms": 171014
+    },
+    {
+      "played_at": "2026-06-11T21:24:43.055Z",
+      "name": "P.I.M.P.",
+      "artists": [
+        "50 Cent"
+      ],
+      "album": "Get Rich Or Die Tryin'",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7f74100d5cc850e01172cbf",
+      "uri": "spotify:track:2D1hlMwWWXpkc3CZJ5U351",
+      "duration_ms": 249466
+    },
+    {
+      "played_at": "2026-06-11T21:28:17.847Z",
+      "name": "ball w/o you",
+      "artists": [
+        "21 Savage"
+      ],
+      "album": "i am > i was",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731afd2e526e3723dd4a9fb4c8",
+      "uri": "spotify:track:50a8bKqlwDEqeiEknrzkTO",
+      "duration_ms": 195046
+    },
+    {
+      "played_at": "2026-06-11T21:32:08.973Z",
+      "name": "Chocolate",
+      "artists": [
+        "The 1975"
+      ],
+      "album": "The 1975",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734d32eb25811626546abb3f1c",
+      "uri": "spotify:track:44Ljlpy44mHvLJxcYUvTK0",
+      "duration_ms": 224640
+    },
+    {
+      "played_at": "2026-06-11T21:36:06.775Z",
+      "name": "Sex",
+      "artists": [
+        "The 1975"
+      ],
+      "album": "The 1975",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734d32eb25811626546abb3f1c",
+      "uri": "spotify:track:0wIFAHbaUucA8mog7Y2IDD",
+      "duration_ms": 206986
+    },
+    {
+      "played_at": "2026-06-11T21:41:48.267Z",
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "artists": [
+        "Omar Courtz",
+        "De La Rose"
+      ],
+      "album": "PRIMERA MUSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273996764071dbd5240eefb2422",
+      "uri": "spotify:track:0Sr7ssScx54yxdM2ols7nW",
+      "duration_ms": 224022
+    },
+    {
+      "played_at": "2026-06-11T21:47:59.788Z",
+      "name": "Sports car",
+      "artists": [
+        "Tate McRae"
+      ],
+      "album": "SO CLOSE TO WHAT??? (deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c40dccc1952bb5ed96986869",
+      "uri": "spotify:track:0vRZm4RiCqucc89v3AVbbI",
+      "duration_ms": 165045
+    },
+    {
+      "played_at": "2026-06-11T21:52:12.728Z",
+      "name": "family ties (with Kendrick Lamar)",
+      "artists": [
+        "Baby Keem",
+        "Kendrick Lamar"
+      ],
+      "album": "The Melodic Blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335a8a0c8b82b525679eceda6",
+      "uri": "spotify:track:3QFInJAm9eyaho5vBzxInN",
+      "duration_ms": 252262
+    },
+    {
+      "played_at": "2026-06-11T22:00:14.161Z",
+      "name": "Bandida Entrenada",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "Tropicoqueta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+      "uri": "spotify:track:3o0nsMGWZMpp3GOEZkVuSR",
+      "duration_ms": 135811
+    },
+    {
+      "played_at": "2026-06-11T22:05:33.091Z",
+      "name": "DALOONA / دلعونة",
+      "artists": [
+        "Saint Levant",
+        "47SOUL",
+        "Shadi Alborini",
+        "Qasem AlNajjar"
+      ],
+      "album": "Love Letters / رسائل حب (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730d6839f150198f1c23fb40e6",
+      "uri": "spotify:track:65Mh2ZAUXoXRqgLLLRcldn",
+      "duration_ms": 170769
+    },
+    {
+      "played_at": "2026-06-11T22:08:26.311Z",
+      "name": "DALOONA / دلعونة",
+      "artists": [
+        "Saint Levant",
+        "47SOUL",
+        "Shadi Alborini",
+        "Qasem AlNajjar"
+      ],
+      "album": "Love Letters / رسائل حب (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730d6839f150198f1c23fb40e6",
+      "uri": "spotify:track:65Mh2ZAUXoXRqgLLLRcldn",
+      "duration_ms": 170769
+    },
+    {
+      "played_at": "2026-06-11T22:11:17.354Z",
+      "name": "DALOONA / دلعونة",
+      "artists": [
+        "Saint Levant",
+        "47SOUL",
+        "Shadi Alborini",
+        "Qasem AlNajjar"
+      ],
+      "album": "Love Letters / رسائل حب (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730d6839f150198f1c23fb40e6",
+      "uri": "spotify:track:65Mh2ZAUXoXRqgLLLRcldn",
+      "duration_ms": 170769
+    },
+    {
+      "played_at": "2026-06-11T22:19:20.267Z",
+      "name": "DALOONA / دلعونة",
+      "artists": [
+        "Saint Levant",
+        "47SOUL",
+        "Shadi Alborini",
+        "Qasem AlNajjar"
+      ],
+      "album": "Love Letters / رسائل حب (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730d6839f150198f1c23fb40e6",
+      "uri": "spotify:track:65Mh2ZAUXoXRqgLLLRcldn",
+      "duration_ms": 170769
+    },
+    {
+      "played_at": "2026-06-11T22:22:04.296Z",
+      "name": "Illegal",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "Fancy That",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+      "uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG",
+      "duration_ms": 149666
+    },
+    {
+      "played_at": "2026-06-11T22:27:34.765Z",
+      "name": "DO YOU LOVE ME? / سنيورة",
+      "artists": [
+        "Saint Levant",
+        "Fares Sokar"
+      ],
+      "album": "Love Letters / رسائل حب (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730d6839f150198f1c23fb40e6",
+      "uri": "spotify:track:4gR1Lpk0478t0M6wrft3y5",
+      "duration_ms": 158571
+    },
+    {
+      "played_at": "2026-06-11T22:30:27.695Z",
+      "name": "DO YOU LOVE ME? / سنيورة",
+      "artists": [
+        "Saint Levant",
+        "Fares Sokar"
+      ],
+      "album": "Love Letters / رسائل حب (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730d6839f150198f1c23fb40e6",
+      "uri": "spotify:track:4gR1Lpk0478t0M6wrft3y5",
+      "duration_ms": 158571
     }
   ]
 }
