@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T18:01:12.632Z",
+  "updated_at": "2026-06-11T20:10:38.747Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -527,6 +527,41 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f543c5344074c07618c3340d",
       "uri": "spotify:track:410smJMzhna1ADC2ldqVHu",
       "duration_ms": 219183
+    },
+    {
+      "played_at": "2026-06-11T18:34:35.961Z",
+      "name": "Bang Bang Bang",
+      "artists": [
+        "Selena Gomez & The Scene"
+      ],
+      "album": "When the Sun Goes Down (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e376b3bfc94a5cd44a7a9e6f",
+      "uri": "spotify:track:1cgOyMBarSb3S1iuPdyRIw",
+      "duration_ms": 195546
+    },
+    {
+      "played_at": "2026-06-11T18:43:35.289Z",
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "artists": [
+        "Omar Courtz",
+        "De La Rose"
+      ],
+      "album": "PRIMERA MUSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273996764071dbd5240eefb2422",
+      "uri": "spotify:track:0Sr7ssScx54yxdM2ols7nW",
+      "duration_ms": 224022
+    },
+    {
+      "played_at": "2026-06-11T18:47:31.813Z",
+      "name": "MALASNOTICIAS.",
+      "artists": [
+        "Alvaro Diaz",
+        "LATIN MAFIA"
+      ],
+      "album": "MALASNOTICIAS.",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311eff7637d3aa7f8d8c990a3",
+      "uri": "spotify:track:5W1bHlFGv5jJw1xyWQJlrJ",
+      "duration_ms": 196920
     }
   ]
 }

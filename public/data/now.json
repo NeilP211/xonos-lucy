@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-11T18:01:12.740Z",
+  "updated_at": "2026-06-11T20:10:38.779Z",
   "is_playing": false,
   "track": {
-    "name": "Hoodie",
+    "name": "MALASNOTICIAS.",
     "artists": [
-      "Hey Violet"
+      "Alvaro Diaz",
+      "LATIN MAFIA"
     ],
-    "album": "From The Outside",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f543c5344074c07618c3340d",
-    "uri": "spotify:track:410smJMzhna1ADC2ldqVHu"
+    "album": "MALASNOTICIAS.",
+    "image": "https://i.scdn.co/image/ab67616d0000b27311eff7637d3aa7f8d8c990a3",
+    "uri": "spotify:track:5W1bHlFGv5jJw1xyWQJlrJ"
   },
-  "played_at": "2026-06-11T17:35:38.895Z"
+  "played_at": "2026-06-11T18:47:31.813Z"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T18:01:12.458Z",
+  "generated_at": "2026-06-11T20:10:38.616Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -179,19 +179,6 @@
         },
         {
           "rank": 15,
-          "name": "2:12 AM",
-          "artists": [
-            "Rauw Alejandro",
-            "LATIN MAFIA"
-          ],
-          "album": "Cosa Nuestra",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
-          "uri": "spotify:track:1UTLq40xh63wMrHELGnKWW",
-          "url": "https://open.spotify.com/track/1UTLq40xh63wMrHELGnKWW",
-          "duration_ms": 211918
-        },
-        {
-          "rank": 16,
           "name": "MALASNOTICIAS.",
           "artists": [
             "Alvaro Diaz",
@@ -202,6 +189,19 @@
           "uri": "spotify:track:7giI2ndmt3L5QiMB8v3McO",
           "url": "https://open.spotify.com/track/7giI2ndmt3L5QiMB8v3McO",
           "duration_ms": 196920
+        },
+        {
+          "rank": 16,
+          "name": "2:12 AM",
+          "artists": [
+            "Rauw Alejandro",
+            "LATIN MAFIA"
+          ],
+          "album": "Cosa Nuestra",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+          "uri": "spotify:track:1UTLq40xh63wMrHELGnKWW",
+          "url": "https://open.spotify.com/track/1UTLq40xh63wMrHELGnKWW",
+          "duration_ms": 211918
         },
         {
           "rank": 17,
@@ -912,6 +912,14 @@
         },
         {
           "rank": 36,
+          "name": "Omar Courtz",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd317f301a85fd77964d94b4d",
+          "genres": [],
+          "uri": "spotify:artist:3E12tRURRvPfHz0hAMCFYc",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "rank": 37,
           "name": "Kodak Black",
           "image": "https://i.scdn.co/image/ab6761610000e5eb98f80af7d47ac0d17d10d989",
           "genres": [],
@@ -919,7 +927,7 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Lil Yachty",
           "image": "https://i.scdn.co/image/ab6761610000e5eb86c7c38d4c8c461dba55035c",
           "genres": [],
@@ -927,7 +935,7 @@
           "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Tyler, The Creator",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf2728294ff77dd11eeb18fb",
           "genres": [],
@@ -935,7 +943,7 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Dua Lipa",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d",
           "genres": [],
@@ -943,7 +951,7 @@
           "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Travis Scott",
           "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
           "genres": [],
@@ -951,7 +959,7 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "rommulas",
           "image": "https://i.scdn.co/image/ab6761610000e5eb51005ca03cd844ff8ce50269",
           "genres": [],
@@ -959,7 +967,7 @@
           "url": "https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Harry Styles",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe309f8c3056a59f20d0968ca",
           "genres": [],
@@ -967,7 +975,7 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Post Malone",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe17c0aa1714a03d62b5ce4e0",
           "genres": [],
@@ -975,7 +983,7 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "J. Cole",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc401ea77e86ee984b1ba9fc2",
           "genres": [],
@@ -983,7 +991,7 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "The Neighbourhood",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
           "genres": [],
