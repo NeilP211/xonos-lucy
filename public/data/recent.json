@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T12:12:08.307Z",
+  "updated_at": "2026-06-12T17:32:21.123Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -1282,6 +1282,94 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
       "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD",
       "duration_ms": 206872
+    },
+    {
+      "played_at": "2026-06-12T11:59:43.879Z",
+      "name": "Deceptacon",
+      "artists": [
+        "Le Tigre"
+      ],
+      "album": "Le Tigre",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb",
+      "uri": "spotify:track:5773KSWFzg9kCc8yazjbSt",
+      "duration_ms": 184626
+    },
+    {
+      "played_at": "2026-06-12T12:30:47.541Z",
+      "name": "get him back!",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "uri": "spotify:track:2gyxAWHebV7xPYVxqoi86f",
+      "duration_ms": 211141
+    },
+    {
+      "played_at": "2026-06-12T12:44:12.499Z",
+      "name": "drop dead",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:0yO9QD2Ga7eUzqnNYsSSPo",
+      "duration_ms": 224998
+    },
+    {
+      "played_at": "2026-06-12T14:24:49.113Z",
+      "name": "stupid song",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4LfCY65LvojKjWEnU7fNN4",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-06-12T14:28:00.390Z",
+      "name": "Illegal",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "Fancy That",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+      "uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG",
+      "duration_ms": 149666
+    },
+    {
+      "played_at": "2026-06-12T14:29:44.384Z",
+      "name": "Super",
+      "artists": [
+        "Bb trickz"
+      ],
+      "album": "80'z",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735dd83173a8d59d092ff17fd5",
+      "uri": "spotify:track:4u5hMlAk0FpBsgReJ7Rpfy",
+      "duration_ms": 103520
+    },
+    {
+      "played_at": "2026-06-12T14:32:49.491Z",
+      "name": "Boys",
+      "artists": [
+        "Charli xcx"
+      ],
+      "album": "Boys",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb4121feca968298ac9e2720",
+      "uri": "spotify:track:5o4yGlG0PfeVUa6ClIyOxq",
+      "duration_ms": 162585
+    },
+    {
+      "played_at": "2026-06-12T14:48:17.791Z",
+      "name": "Got Me Started",
+      "artists": [
+        "Troye Sivan"
+      ],
+      "album": "Something To Give Each Other",
+      "image": "https://i.scdn.co/image/ab67616d0000b27367103283a4eb57578a428252",
+      "uri": "spotify:track:31MNHKE86sEXzIglbGQ6mu",
+      "duration_ms": 198448
     }
   ]
 }

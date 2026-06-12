@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T12:12:08.085Z",
+  "generated_at": "2026-06-12T17:32:20.965Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -67,6 +67,19 @@
         },
         {
           "rank": 6,
+          "name": "大展鴻圖(Blueprint Supreme)",
+          "artists": [
+            "攬佬SKAI ISYOURGOD",
+            "AR刘夫阳"
+          ],
+          "album": "八方來財(Stacks from All Sides)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
+          "uri": "spotify:track:0hEWvzkgbI301JZj947gFz",
+          "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz",
+          "duration_ms": 212727
+        },
+        {
+          "rank": 7,
           "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
           "artists": [
             "The Weeknd",
@@ -78,19 +91,6 @@
           "uri": "spotify:track:7CyPwkp0oE8Ro9Dd5CUDjW",
           "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW",
           "duration_ms": 244684
-        },
-        {
-          "rank": 7,
-          "name": "大展鴻圖(Blueprint Supreme)",
-          "artists": [
-            "攬佬SKAI ISYOURGOD",
-            "AR刘夫阳"
-          ],
-          "album": "八方來財(Stacks from All Sides)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
-          "uri": "spotify:track:0hEWvzkgbI301JZj947gFz",
-          "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz",
-          "duration_ms": 212727
         },
         {
           "rank": 8,
@@ -363,6 +363,66 @@
         },
         {
           "rank": 29,
+          "name": "secrecy",
+          "artists": [
+            "Ethan Regan"
+          ],
+          "album": "secrecy",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733b3a123aefb689a99b62c48b",
+          "uri": "spotify:track:5Sg615kNA7VUa0zaTvanUc",
+          "url": "https://open.spotify.com/track/5Sg615kNA7VUa0zaTvanUc",
+          "duration_ms": 210000
+        },
+        {
+          "rank": 30,
+          "name": "Mesytara",
+          "artists": [
+            "Lamis Kan"
+          ],
+          "album": "Mesytara",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f8769dc15b35e5cd7147b252",
+          "uri": "spotify:track:0CmbfecTDfXHlKwPtqDoCU",
+          "url": "https://open.spotify.com/track/0CmbfecTDfXHlKwPtqDoCU",
+          "duration_ms": 167688
+        },
+        {
+          "rank": 31,
+          "name": "Mean girls",
+          "artists": [
+            "Charli xcx"
+          ],
+          "album": "BRAT",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+          "uri": "spotify:track:1qKCO2Tocwg8CbepJ9uDtd",
+          "url": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd",
+          "duration_ms": 189410
+        },
+        {
+          "rank": 32,
+          "name": "Nosebleeds",
+          "artists": [
+            "Doechii"
+          ],
+          "album": "Nosebleeds",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b50168e8cd8fd1c991f9a462",
+          "uri": "spotify:track:3QfxeNMKiOMFxHVLlR1L1c",
+          "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c",
+          "duration_ms": 135063
+        },
+        {
+          "rank": 33,
+          "name": "OKI DOKI",
+          "artists": [
+            "KAROL G"
+          ],
+          "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03",
+          "uri": "spotify:track:4gJfPoMIcSDGY0tMGxm6Fu",
+          "url": "https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu",
+          "duration_ms": 143789
+        },
+        {
+          "rank": 34,
           "name": "I Was Never There",
           "artists": [
             "The Weeknd",
@@ -375,67 +435,19 @@
           "duration_ms": 241066
         },
         {
-          "rank": 30,
-          "name": "secrecy",
-          "artists": [
-            "Ethan Regan"
-          ],
-          "album": "secrecy",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733b3a123aefb689a99b62c48b",
-          "uri": "spotify:track:5Sg615kNA7VUa0zaTvanUc",
-          "url": "https://open.spotify.com/track/5Sg615kNA7VUa0zaTvanUc",
-          "duration_ms": 210000
-        },
-        {
-          "rank": 31,
-          "name": "Mesytara",
-          "artists": [
-            "Lamis Kan"
-          ],
-          "album": "Mesytara",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f8769dc15b35e5cd7147b252",
-          "uri": "spotify:track:0CmbfecTDfXHlKwPtqDoCU",
-          "url": "https://open.spotify.com/track/0CmbfecTDfXHlKwPtqDoCU",
-          "duration_ms": 167688
-        },
-        {
-          "rank": 32,
-          "name": "Mean girls",
-          "artists": [
-            "Charli xcx"
-          ],
-          "album": "BRAT",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
-          "uri": "spotify:track:1qKCO2Tocwg8CbepJ9uDtd",
-          "url": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd",
-          "duration_ms": 189410
-        },
-        {
-          "rank": 33,
-          "name": "Nosebleeds",
-          "artists": [
-            "Doechii"
-          ],
-          "album": "Nosebleeds",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b50168e8cd8fd1c991f9a462",
-          "uri": "spotify:track:3QfxeNMKiOMFxHVLlR1L1c",
-          "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c",
-          "duration_ms": 135063
-        },
-        {
-          "rank": 34,
-          "name": "OKI DOKI",
-          "artists": [
-            "KAROL G"
-          ],
-          "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03",
-          "uri": "spotify:track:4gJfPoMIcSDGY0tMGxm6Fu",
-          "url": "https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu",
-          "duration_ms": 143789
-        },
-        {
           "rank": 35,
+          "name": "Got Me Started",
+          "artists": [
+            "Troye Sivan"
+          ],
+          "album": "Something To Give Each Other",
+          "image": "https://i.scdn.co/image/ab67616d0000b27367103283a4eb57578a428252",
+          "uri": "spotify:track:31MNHKE86sEXzIglbGQ6mu",
+          "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu",
+          "duration_ms": 198448
+        },
+        {
+          "rank": 36,
           "name": "Attention",
           "artists": [
             "Doja Cat"
@@ -447,117 +459,7 @@
           "duration_ms": 275512
         },
         {
-          "rank": 36,
-          "name": "Sugar On My Tongue",
-          "artists": [
-            "Tyler, The Creator"
-          ],
-          "album": "DON'T TAP THE GLASS",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734b7fbb849ed845ddedcce346",
-          "uri": "spotify:track:6xV7Be6XEvkSnighmh2Tzj",
-          "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj",
-          "duration_ms": 153332
-        },
-        {
           "rank": 37,
-          "name": "EPA",
-          "artists": [
-            "Becky G"
-          ],
-          "album": "EPA",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e3ab1093eee392c0e5a7760c",
-          "uri": "spotify:track:1DtGtvgGRxsfHfwQu3cqfw",
-          "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw",
-          "duration_ms": 202542
-        },
-        {
-          "rank": 38,
-          "name": "NO. 9",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-          "uri": "spotify:track:5Nq6lLSxphlsA6nQB0KtES",
-          "url": "https://open.spotify.com/track/5Nq6lLSxphlsA6nQB0KtES",
-          "duration_ms": 199190
-        },
-        {
-          "rank": 39,
-          "name": "The Adults Are Talking",
-          "artists": [
-            "The Strokes"
-          ],
-          "album": "The New Abnormal",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-          "uri": "spotify:track:5ruzrDWcT0vuJIOMW7gMnW",
-          "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
-          "duration_ms": 309053
-        },
-        {
-          "rank": 40,
-          "name": "Peppers (feat. Tommy Genesis)",
-          "artists": [
-            "Lana Del Rey",
-            "Tommy Genesis"
-          ],
-          "album": "Did you know that there's a tunnel under Ocean Blvd",
-          "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
-          "uri": "spotify:track:2Rlso2ZNV0PaWwUYeeBYxx",
-          "url": "https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx",
-          "duration_ms": 248928
-        },
-        {
-          "rank": 41,
-          "name": "PRETTY GIRLS",
-          "artists": [
-            "Frenna"
-          ],
-          "album": "PINK SUMMER",
-          "image": "https://i.scdn.co/image/ab67616d0000b27315b1e3ee160c4a79ce9ce63e",
-          "uri": "spotify:track:0dT0g3uNGWwSzvVvszdVd4",
-          "url": "https://open.spotify.com/track/0dT0g3uNGWwSzvVvszdVd4",
-          "duration_ms": 145354
-        },
-        {
-          "rank": 42,
-          "name": "ZiGZaG",
-          "artists": [
-            "ALLY"
-          ],
-          "album": "ZiGZaG",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a7c0d77a8d63fedc18cb45d4",
-          "uri": "spotify:track:2yE00Onz1GMJZ4h5lYs2u0",
-          "url": "https://open.spotify.com/track/2yE00Onz1GMJZ4h5lYs2u0",
-          "duration_ms": 154965
-        },
-        {
-          "rank": 43,
-          "name": "FINA",
-          "artists": [
-            "Bad Bunny",
-            "Young Miko"
-          ],
-          "album": "nadie sabe lo que va a pasar mañana",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732ea1f035463d11e1fc3b193d",
-          "uri": "spotify:track:3nNmRE0DxHC6ZaKkrpUumS",
-          "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS",
-          "duration_ms": 216327
-        },
-        {
-          "rank": 44,
-          "name": "7 rings",
-          "artists": [
-            "Ariana Grande"
-          ],
-          "album": "thank u, next",
-          "image": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
-          "uri": "spotify:track:6ocbgoVGwYJhOv1GgI9NsF",
-          "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF",
-          "duration_ms": 178626
-        },
-        {
-          "rank": 45,
           "name": "KALAMANTINA / كلمنتينا",
           "artists": [
             "Saint Levant",
@@ -570,7 +472,117 @@
           "duration_ms": 206872
         },
         {
+          "rank": 38,
+          "name": "Sugar On My Tongue",
+          "artists": [
+            "Tyler, The Creator"
+          ],
+          "album": "DON'T TAP THE GLASS",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734b7fbb849ed845ddedcce346",
+          "uri": "spotify:track:6xV7Be6XEvkSnighmh2Tzj",
+          "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj",
+          "duration_ms": 153332
+        },
+        {
+          "rank": 39,
+          "name": "EPA",
+          "artists": [
+            "Becky G"
+          ],
+          "album": "EPA",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e3ab1093eee392c0e5a7760c",
+          "uri": "spotify:track:1DtGtvgGRxsfHfwQu3cqfw",
+          "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw",
+          "duration_ms": 202542
+        },
+        {
+          "rank": 40,
+          "name": "NO. 9",
+          "artists": [
+            "Playboi Carti"
+          ],
+          "album": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+          "uri": "spotify:track:5Nq6lLSxphlsA6nQB0KtES",
+          "url": "https://open.spotify.com/track/5Nq6lLSxphlsA6nQB0KtES",
+          "duration_ms": 199190
+        },
+        {
+          "rank": 41,
+          "name": "The Adults Are Talking",
+          "artists": [
+            "The Strokes"
+          ],
+          "album": "The New Abnormal",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+          "uri": "spotify:track:5ruzrDWcT0vuJIOMW7gMnW",
+          "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+          "duration_ms": 309053
+        },
+        {
+          "rank": 42,
+          "name": "Peppers (feat. Tommy Genesis)",
+          "artists": [
+            "Lana Del Rey",
+            "Tommy Genesis"
+          ],
+          "album": "Did you know that there's a tunnel under Ocean Blvd",
+          "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+          "uri": "spotify:track:2Rlso2ZNV0PaWwUYeeBYxx",
+          "url": "https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx",
+          "duration_ms": 248928
+        },
+        {
+          "rank": 43,
+          "name": "drop dead",
+          "artists": [
+            "Olivia Rodrigo"
+          ],
+          "album": "drop dead (taken that eurostar to france video)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731a1495ff41046065b9475366",
+          "uri": "spotify:track:7Hc6qcJG4NtyZgbNvQyd8U",
+          "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U",
+          "duration_ms": 224998
+        },
+        {
+          "rank": 44,
+          "name": "ZiGZaG",
+          "artists": [
+            "ALLY"
+          ],
+          "album": "ZiGZaG",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a7c0d77a8d63fedc18cb45d4",
+          "uri": "spotify:track:2yE00Onz1GMJZ4h5lYs2u0",
+          "url": "https://open.spotify.com/track/2yE00Onz1GMJZ4h5lYs2u0",
+          "duration_ms": 154965
+        },
+        {
+          "rank": 45,
+          "name": "FINA",
+          "artists": [
+            "Bad Bunny",
+            "Young Miko"
+          ],
+          "album": "nadie sabe lo que va a pasar mañana",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732ea1f035463d11e1fc3b193d",
+          "uri": "spotify:track:3nNmRE0DxHC6ZaKkrpUumS",
+          "url": "https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS",
+          "duration_ms": 216327
+        },
+        {
           "rank": 46,
+          "name": "7 rings",
+          "artists": [
+            "Ariana Grande"
+          ],
+          "album": "thank u, next",
+          "image": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8",
+          "uri": "spotify:track:6ocbgoVGwYJhOv1GgI9NsF",
+          "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF",
+          "duration_ms": 178626
+        },
+        {
+          "rank": 47,
           "name": "Earl Gray",
           "artists": [
             "a子"
@@ -582,7 +594,7 @@
           "duration_ms": 141106
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "E85",
           "artists": [
             "Don Toliver"
@@ -594,7 +606,7 @@
           "duration_ms": 153181
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "offline",
           "artists": [
             "Young Miko",
@@ -607,28 +619,16 @@
           "duration_ms": 201935
         },
         {
-          "rank": 49,
-          "name": "Deceptacon",
-          "artists": [
-            "Le Tigre"
-          ],
-          "album": "Le Tigre",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb",
-          "uri": "spotify:track:5773KSWFzg9kCc8yazjbSt",
-          "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt",
-          "duration_ms": 184626
-        },
-        {
           "rank": 50,
-          "name": "Youngblood",
+          "name": "PRETTY GIRLS",
           "artists": [
-            "5 Seconds of Summer"
+            "Frenna"
           ],
-          "album": "Youngblood (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557",
-          "uri": "spotify:track:2iUXsYOEPhVqEBwsqP70rE",
-          "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE",
-          "duration_ms": 203417
+          "album": "PINK SUMMER",
+          "image": "https://i.scdn.co/image/ab67616d0000b27315b1e3ee160c4a79ce9ce63e",
+          "uri": "spotify:track:0dT0g3uNGWwSzvVvszdVd4",
+          "url": "https://open.spotify.com/track/0dT0g3uNGWwSzvVvszdVd4",
+          "duration_ms": 145354
         }
       ],
       "artists": [
@@ -674,19 +674,19 @@
         },
         {
           "rank": 6,
-          "name": "Charli xcx",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6fa76436a2bba83b9f1d6fd1",
-          "genres": [],
-          "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "rank": 7,
           "name": "Olivia Rodrigo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
           "genres": [],
           "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "rank": 7,
+          "name": "Charli xcx",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6fa76436a2bba83b9f1d6fd1",
+          "genres": [],
+          "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
           "rank": 8,

@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-12T12:12:08.402Z",
+  "updated_at": "2026-06-12T17:32:21.159Z",
   "is_playing": false,
   "track": {
-    "name": "KALAMANTINA / كلمنتينا",
+    "name": "Got Me Started",
     "artists": [
-      "Saint Levant",
-      "Marwan Moussa"
+      "Troye Sivan"
     ],
-    "album": "Love Letters / رسائل حب",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
-    "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD"
+    "album": "Something To Give Each Other",
+    "image": "https://i.scdn.co/image/ab67616d0000b27367103283a4eb57578a428252",
+    "uri": "spotify:track:31MNHKE86sEXzIglbGQ6mu"
   },
-  "played_at": "2026-06-12T11:59:12.835Z"
+  "played_at": "2026-06-12T14:48:17.791Z"
 }
