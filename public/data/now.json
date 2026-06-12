@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-06-12T07:14:17.394Z",
+  "updated_at": "2026-06-12T12:12:08.402Z",
   "is_playing": false,
   "track": {
-    "name": "MALASNOTICIAS.",
+    "name": "KALAMANTINA / كلمنتينا",
     "artists": [
-      "Alvaro Diaz",
-      "LATIN MAFIA"
+      "Saint Levant",
+      "Marwan Moussa"
     ],
-    "album": "MALASNOTICIAS.",
-    "image": "https://i.scdn.co/image/ab67616d0000b27311eff7637d3aa7f8d8c990a3",
-    "uri": "spotify:track:5W1bHlFGv5jJw1xyWQJlrJ"
+    "album": "Love Letters / رسائل حب",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
+    "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD"
   },
-  "played_at": "2026-06-12T02:09:19.739Z"
+  "played_at": "2026-06-12T11:59:12.835Z"
 }

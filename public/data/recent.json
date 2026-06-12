@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T07:14:17.280Z",
+  "updated_at": "2026-06-12T12:12:08.307Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -1083,6 +1083,205 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27311eff7637d3aa7f8d8c990a3",
       "uri": "spotify:track:5W1bHlFGv5jJw1xyWQJlrJ",
       "duration_ms": 196920
+    },
+    {
+      "played_at": "2026-06-12T02:36:18.142Z",
+      "name": "ANYTHING BUT LOVE",
+      "artists": [
+        "Tate McRae"
+      ],
+      "album": "SO CLOSE TO WHAT??? (deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c40dccc1952bb5ed96986869",
+      "uri": "spotify:track:66tlRqExpkn4kRyuxelzs5",
+      "duration_ms": 147293
+    },
+    {
+      "played_at": "2026-06-12T10:29:36.623Z",
+      "name": "RATHER LIE (with The Weeknd)",
+      "artists": [
+        "Playboi Carti",
+        "The Weeknd"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-06-12T10:32:15.785Z",
+      "name": "Ride or Die, Pt. 2",
+      "artists": [
+        "Sevdaliza",
+        "Villano Antillano",
+        "Tokischa"
+      ],
+      "album": "HEROINA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738764879d436c2b7dfe130396",
+      "uri": "spotify:track:4NiSSIrUefyxvwYEEH1CQK",
+      "duration_ms": 158728
+    },
+    {
+      "played_at": "2026-06-12T10:35:14.947Z",
+      "name": "SS26",
+      "artists": [
+        "Charli xcx"
+      ],
+      "album": "SS26",
+      "image": "https://i.scdn.co/image/ab67616d0000b273516b540fe2ff881fdc36d7f3",
+      "uri": "spotify:track:3d5NbAerF2MMHw9tdIxiFH",
+      "duration_ms": 167674
+    },
+    {
+      "played_at": "2026-06-12T10:37:50.372Z",
+      "name": "Sohni Lagdi",
+      "artists": [
+        "Diljit Dosanjh",
+        "Zafar Sandhu",
+        "MixSingh"
+      ],
+      "album": "Sardaar Ji 3 (Orignal Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c38366528c5ee133b52221da",
+      "uri": "spotify:track:39ekKV0MPqtla7gnJHq7io",
+      "duration_ms": 155000
+    },
+    {
+      "played_at": "2026-06-12T10:41:12.779Z",
+      "name": "offline",
+      "artists": [
+        "Young Miko",
+        "Feid"
+      ],
+      "album": "att.",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310dfb6ef442ace580aa5a2bf",
+      "uri": "spotify:track:7s4emXHJwAuo5VvGBXmnBL",
+      "duration_ms": 201935
+    },
+    {
+      "played_at": "2026-06-12T10:45:08.825Z",
+      "name": "Super",
+      "artists": [
+        "Bb trickz"
+      ],
+      "album": "80'z",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735dd83173a8d59d092ff17fd5",
+      "uri": "spotify:track:4u5hMlAk0FpBsgReJ7Rpfy",
+      "duration_ms": 103520
+    },
+    {
+      "played_at": "2026-06-12T10:47:53.675Z",
+      "name": "Charger",
+      "artists": [
+        "TRIANGLE DES BERMUDES",
+        "MC YOSHI",
+        "Mauvais djo",
+        "Kokosvoice"
+      ],
+      "album": "Franchement !",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738c3ef4b93cdfc38c008fd874",
+      "uri": "spotify:track:1mvzvLW9nFujgS2VNKnToJ",
+      "duration_ms": 155189
+    },
+    {
+      "played_at": "2026-06-12T10:58:29.521Z",
+      "name": "BIAF <3",
+      "artists": [
+        "Young Miko"
+      ],
+      "album": "Do Not Disturb: Late Checkout",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+      "uri": "spotify:track:6YRif0qQH6DIvfJ4DxR4vn",
+      "duration_ms": 170434
+    },
+    {
+      "played_at": "2026-06-12T11:01:51.936Z",
+      "name": "Aquel diciembre",
+      "artists": [
+        "Young Miko",
+        "Rauw Alejandro"
+      ],
+      "album": "Do Not Disturb: Late Checkout",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+      "uri": "spotify:track:6A2VAtuRu5p5LymL4RSCBG",
+      "duration_ms": 202413
+    },
+    {
+      "played_at": "2026-06-12T11:04:56.819Z",
+      "name": "⁠⁠no debo :(",
+      "artists": [
+        "Young Miko",
+        "DESTIN CONRAD"
+      ],
+      "album": "Do Not Disturb: Late Checkout",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+      "uri": "spotify:track:5XycIQWzD3ofaE3BVklJh4",
+      "duration_ms": 184773
+    },
+    {
+      "played_at": "2026-06-12T11:07:10.434Z",
+      "name": "El intro",
+      "artists": [
+        "Young Miko"
+      ],
+      "album": "Do Not Disturb: Late Checkout",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+      "uri": "spotify:track:146mm8QIXAlrFImCPZa0Hx",
+      "duration_ms": 131000
+    },
+    {
+      "played_at": "2026-06-12T11:09:06.320Z",
+      "name": "⁠What’s Ur Vibe?",
+      "artists": [
+        "Young Miko"
+      ],
+      "album": "Do Not Disturb: Late Checkout",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+      "uri": "spotify:track:3ZqIexolRI4qyuJnTjk2Yj",
+      "duration_ms": 115840
+    },
+    {
+      "played_at": "2026-06-12T11:11:59.032Z",
+      "name": "⁠En el Ritz",
+      "artists": [
+        "Young Miko"
+      ],
+      "album": "Do Not Disturb: Late Checkout",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+      "uri": "spotify:track:23kiwYwykIphibxFCrAi8x",
+      "duration_ms": 169026
+    },
+    {
+      "played_at": "2026-06-12T11:14:41.225Z",
+      "name": "WASSUP",
+      "artists": [
+        "Young Miko"
+      ],
+      "album": "Do Not Disturb: Late Checkout",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+      "uri": "spotify:track:6n0jOgCKq2n4Tw82WF25Ri",
+      "duration_ms": 162263
+    },
+    {
+      "played_at": "2026-06-12T11:48:57.059Z",
+      "name": "Mesytara",
+      "artists": [
+        "Lamis Kan"
+      ],
+      "album": "Mesytara",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8769dc15b35e5cd7147b252",
+      "uri": "spotify:track:0CmbfecTDfXHlKwPtqDoCU",
+      "duration_ms": 167688
+    },
+    {
+      "played_at": "2026-06-12T11:59:12.835Z",
+      "name": "KALAMANTINA / كلمنتينا",
+      "artists": [
+        "Saint Levant",
+        "Marwan Moussa"
+      ],
+      "album": "Love Letters / رسائل حب",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
+      "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD",
+      "duration_ms": 206872
     }
   ]
 }
