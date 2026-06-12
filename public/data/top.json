@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T17:32:20.965Z",
+  "generated_at": "2026-06-12T19:54:02.271Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -907,7 +907,7 @@
         {
           "rank": 35,
           "name": "Kodak Black",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb98f80af7d47ac0d17d10d989",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebcbca429e353792c21e52edae",
           "genres": [],
           "uri": "spotify:artist:46SHBwWsqBkxI7EeeBEQG7",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
@@ -1081,15 +1081,16 @@
         },
         {
           "rank": 7,
-          "name": "ANYTHING BUT LOVE",
+          "name": "Love Hangover (feat. Dominic Fike)",
           "artists": [
-            "Tate McRae"
+            "JENNIE",
+            "Dominic Fike"
           ],
-          "album": "SO CLOSE TO WHAT??? (deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c40dccc1952bb5ed96986869",
-          "uri": "spotify:track:66tlRqExpkn4kRyuxelzs5",
-          "url": "https://open.spotify.com/track/66tlRqExpkn4kRyuxelzs5",
-          "duration_ms": 147293
+          "album": "Ruby",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
+          "uri": "spotify:track:0rx7xu0RmZLpJjKNVZjSVv",
+          "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
+          "duration_ms": 180129
         },
         {
           "rank": 8,
@@ -1117,16 +1118,15 @@
         },
         {
           "rank": 10,
-          "name": "Love Hangover (feat. Dominic Fike)",
+          "name": "ANYTHING BUT LOVE",
           "artists": [
-            "JENNIE",
-            "Dominic Fike"
+            "Tate McRae"
           ],
-          "album": "Ruby",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
-          "uri": "spotify:track:0rx7xu0RmZLpJjKNVZjSVv",
-          "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
-          "duration_ms": 180129
+          "album": "SO CLOSE TO WHAT??? (deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c40dccc1952bb5ed96986869",
+          "uri": "spotify:track:66tlRqExpkn4kRyuxelzs5",
+          "url": "https://open.spotify.com/track/66tlRqExpkn4kRyuxelzs5",
+          "duration_ms": 147293
         },
         {
           "rank": 11,
@@ -1142,18 +1142,6 @@
         },
         {
           "rank": 12,
-          "name": "Sugar On My Tongue",
-          "artists": [
-            "Tyler, The Creator"
-          ],
-          "album": "DON'T TAP THE GLASS",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734b7fbb849ed845ddedcce346",
-          "uri": "spotify:track:6xV7Be6XEvkSnighmh2Tzj",
-          "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj",
-          "duration_ms": 153332
-        },
-        {
-          "rank": 13,
           "name": "B2b",
           "artists": [
             "Charli xcx"
@@ -1163,6 +1151,18 @@
           "uri": "spotify:track:4wTvw1dBiPXNiHTh0zzpcI",
           "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI",
           "duration_ms": 178579
+        },
+        {
+          "rank": 13,
+          "name": "Sugar On My Tongue",
+          "artists": [
+            "Tyler, The Creator"
+          ],
+          "album": "DON'T TAP THE GLASS",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734b7fbb849ed845ddedcce346",
+          "uri": "spotify:track:6xV7Be6XEvkSnighmh2Tzj",
+          "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj",
+          "duration_ms": 153332
         },
         {
           "rank": 14,
@@ -1190,18 +1190,6 @@
         },
         {
           "rank": 16,
-          "name": "pRETTy",
-          "artists": [
-            "Lil Yachty"
-          ],
-          "album": "Let’s Start Here.",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736f578b21bce56056473da7e6",
-          "uri": "spotify:track:6vDyzD9o8aYhR1963oJpkO",
-          "url": "https://open.spotify.com/track/6vDyzD9o8aYhR1963oJpkO",
-          "duration_ms": 162208
-        },
-        {
-          "rank": 17,
           "name": "Única",
           "artists": [
             "Tainy",
@@ -1212,6 +1200,19 @@
           "uri": "spotify:track:0xHAfrziD261HeNYVmYqNF",
           "url": "https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF",
           "duration_ms": 144957
+        },
+        {
+          "rank": 17,
+          "name": "Q U E V A S H A C E R H O Y ?",
+          "artists": [
+            "Omar Courtz",
+            "De La Rose"
+          ],
+          "album": "PRIMERA MUSA",
+          "image": "https://i.scdn.co/image/ab67616d0000b273996764071dbd5240eefb2422",
+          "uri": "spotify:track:0Sr7ssScx54yxdM2ols7nW",
+          "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW",
+          "duration_ms": 224022
         },
         {
           "rank": 18,
@@ -1227,31 +1228,6 @@
         },
         {
           "rank": 19,
-          "name": "crush",
-          "artists": [
-            "2hollis"
-          ],
-          "album": "boy",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
-          "uri": "spotify:track:2h7vLf7jv2KsRb7fV77w5H",
-          "url": "https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H",
-          "duration_ms": 146225
-        },
-        {
-          "rank": 20,
-          "name": "Q U E V A S H A C E R H O Y ?",
-          "artists": [
-            "Omar Courtz",
-            "De La Rose"
-          ],
-          "album": "PRIMERA MUSA",
-          "image": "https://i.scdn.co/image/ab67616d0000b273996764071dbd5240eefb2422",
-          "uri": "spotify:track:0Sr7ssScx54yxdM2ols7nW",
-          "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW",
-          "duration_ms": 224022
-        },
-        {
-          "rank": 21,
           "name": "Option (feat. 2hollis)",
           "artists": [
             "rommulas",
@@ -1264,19 +1240,19 @@
           "duration_ms": 146920
         },
         {
-          "rank": 22,
-          "name": "Chill Baby",
+          "rank": 20,
+          "name": "crush",
           "artists": [
-            "SZA"
+            "2hollis"
           ],
-          "album": "SOS Deluxe: LANA",
-          "image": "https://i.scdn.co/image/ab67616d0000b27316fdde9f6b5606419ca9b7ca",
-          "uri": "spotify:track:0qpdzfTxAkOREtvvGO5oew",
-          "url": "https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew",
-          "duration_ms": 140637
+          "album": "boy",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733db98a6290b17283bd2a3186",
+          "uri": "spotify:track:2h7vLf7jv2KsRb7fV77w5H",
+          "url": "https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H",
+          "duration_ms": 146225
         },
         {
-          "rank": 23,
+          "rank": 21,
           "name": "hate that i made you love me",
           "artists": [
             "Ariana Grande"
@@ -1288,7 +1264,7 @@
           "duration_ms": 197949
         },
         {
-          "rank": 24,
+          "rank": 22,
           "name": "flash",
           "artists": [
             "2hollis"
@@ -1300,19 +1276,7 @@
           "duration_ms": 164117
         },
         {
-          "rank": 25,
-          "name": "Si Antes Te Hubiera Conocido",
-          "artists": [
-            "KAROL G"
-          ],
-          "album": "Tropicoqueta",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
-          "uri": "spotify:track:73scB4Q4fcOmnsBVZPmk32",
-          "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32",
-          "duration_ms": 195824
-        },
-        {
-          "rank": 26,
+          "rank": 23,
           "name": "Never Getting Laid",
           "artists": [
             "Sabrina Carpenter"
@@ -1324,7 +1288,19 @@
           "duration_ms": 208211
         },
         {
-          "rank": 27,
+          "rank": 24,
+          "name": "Si Antes Te Hubiera Conocido",
+          "artists": [
+            "KAROL G"
+          ],
+          "album": "Tropicoqueta",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+          "uri": "spotify:track:73scB4Q4fcOmnsBVZPmk32",
+          "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32",
+          "duration_ms": 195824
+        },
+        {
+          "rank": 25,
           "name": "Busy Woman",
           "artists": [
             "Sabrina Carpenter"
@@ -1336,7 +1312,7 @@
           "duration_ms": 186612
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "the cure",
           "artists": [
             "Olivia Rodrigo"
@@ -1348,7 +1324,7 @@
           "duration_ms": 297090
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "left to right",
           "artists": [
             "rommulas",
@@ -1361,7 +1337,7 @@
           "duration_ms": 154285
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
           "artists": [
             "The Weeknd",
@@ -1375,7 +1351,7 @@
           "duration_ms": 244684
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "Go Go Juice",
           "artists": [
             "Sabrina Carpenter"
@@ -1387,7 +1363,7 @@
           "duration_ms": 193315
         },
         {
-          "rank": 32,
+          "rank": 30,
           "name": "Mean girls",
           "artists": [
             "Charli xcx"
@@ -1399,7 +1375,7 @@
           "duration_ms": 189410
         },
         {
-          "rank": 33,
+          "rank": 31,
           "name": "Pop",
           "artists": [
             "Harry Styles"
@@ -1411,7 +1387,7 @@
           "duration_ms": 216026
         },
         {
-          "rank": 34,
+          "rank": 32,
           "name": "That’s So True",
           "artists": [
             "Gracie Abrams"
@@ -1423,7 +1399,7 @@
           "duration_ms": 166300
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "Sunshine & Rain...",
           "artists": [
             "Kali Uchis"
@@ -1435,19 +1411,19 @@
           "duration_ms": 197796
         },
         {
-          "rank": 36,
-          "name": "Ese Hombre Es Malo",
+          "rank": 34,
+          "name": "pRETTy",
           "artists": [
-            "KAROL G"
+            "Lil Yachty"
           ],
-          "album": "Tropicoqueta",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
-          "uri": "spotify:track:61yr9YbDKfyZn7zh1ZgUOW",
-          "url": "https://open.spotify.com/track/61yr9YbDKfyZn7zh1ZgUOW",
-          "duration_ms": 217370
+          "album": "Let’s Start Here.",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736f578b21bce56056473da7e6",
+          "uri": "spotify:track:6vDyzD9o8aYhR1963oJpkO",
+          "url": "https://open.spotify.com/track/6vDyzD9o8aYhR1963oJpkO",
+          "duration_ms": 162208
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
           "artists": [
             "JENNIE",
@@ -1461,7 +1437,7 @@
           "duration_ms": 230895
         },
         {
-          "rank": 38,
+          "rank": 36,
           "name": "Sour Candy (with BLACKPINK)",
           "artists": [
             "Lady Gaga",
@@ -1474,7 +1450,7 @@
           "duration_ms": 157706
         },
         {
-          "rank": 39,
+          "rank": 37,
           "name": "cliche",
           "artists": [
             "2hollis"
@@ -1486,7 +1462,19 @@
           "duration_ms": 179215
         },
         {
-          "rank": 40,
+          "rank": 38,
+          "name": "Ese Hombre Es Malo",
+          "artists": [
+            "KAROL G"
+          ],
+          "album": "Tropicoqueta",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+          "uri": "spotify:track:61yr9YbDKfyZn7zh1ZgUOW",
+          "url": "https://open.spotify.com/track/61yr9YbDKfyZn7zh1ZgUOW",
+          "duration_ms": 217370
+        },
+        {
+          "rank": 39,
           "name": "DO YOU LOVE ME? / سنيورة",
           "artists": [
             "Saint Levant",
@@ -1499,7 +1487,7 @@
           "duration_ms": 158571
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Please Please Please",
           "artists": [
             "Sabrina Carpenter"
@@ -1509,6 +1497,18 @@
           "uri": "spotify:track:2tHwzyyOLoWSFqYNjeVMzj",
           "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj",
           "duration_ms": 186365
+        },
+        {
+          "rank": 41,
+          "name": "P.I.M.P.",
+          "artists": [
+            "50 Cent"
+          ],
+          "album": "Get Rich Or Die Tryin'",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
+          "uri": "spotify:track:3G0yz3DZn3lfraledmBCT0",
+          "url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
+          "duration_ms": 249480
         },
         {
           "rank": 42,
@@ -1524,18 +1524,6 @@
         },
         {
           "rank": 43,
-          "name": "P.I.M.P.",
-          "artists": [
-            "50 Cent"
-          ],
-          "album": "Get Rich Or Die Tryin'",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
-          "uri": "spotify:track:3G0yz3DZn3lfraledmBCT0",
-          "url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
-          "duration_ms": 249480
-        },
-        {
-          "rank": 44,
           "name": "TIT FOR TAT",
           "artists": [
             "Tate McRae"
@@ -1547,7 +1535,43 @@
           "duration_ms": 177208
         },
         {
+          "rank": 44,
+          "name": "Chains of Love",
+          "artists": [
+            "Charli xcx"
+          ],
+          "album": "Wuthering Heights",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
+          "uri": "spotify:track:77qLAmRzMPetmXywybpH15",
+          "url": "https://open.spotify.com/track/77qLAmRzMPetmXywybpH15",
+          "duration_ms": 170211
+        },
+        {
           "rank": 45,
+          "name": "Sugar! Honey! Love!",
+          "artists": [
+            "Kali Uchis"
+          ],
+          "album": "Sincerely,",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2",
+          "uri": "spotify:track:0iIut6VJ8lIT5di5ejg78O",
+          "url": "https://open.spotify.com/track/0iIut6VJ8lIT5di5ejg78O",
+          "duration_ms": 184871
+        },
+        {
+          "rank": 46,
+          "name": "Illegal",
+          "artists": [
+            "PinkPantheress"
+          ],
+          "album": "Fancy That",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+          "uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG",
+          "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG",
+          "duration_ms": 149666
+        },
+        {
+          "rank": 47,
           "name": "Tiroteo - Remix",
           "artists": [
             "Marc Seguí",
@@ -1561,43 +1585,7 @@
           "duration_ms": 321555
         },
         {
-          "rank": 46,
-          "name": "Chains of Love",
-          "artists": [
-            "Charli xcx"
-          ],
-          "album": "Wuthering Heights",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4",
-          "uri": "spotify:track:77qLAmRzMPetmXywybpH15",
-          "url": "https://open.spotify.com/track/77qLAmRzMPetmXywybpH15",
-          "duration_ms": 170211
-        },
-        {
-          "rank": 47,
-          "name": "Sugar! Honey! Love!",
-          "artists": [
-            "Kali Uchis"
-          ],
-          "album": "Sincerely,",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2",
-          "uri": "spotify:track:0iIut6VJ8lIT5di5ejg78O",
-          "url": "https://open.spotify.com/track/0iIut6VJ8lIT5di5ejg78O",
-          "duration_ms": 184871
-        },
-        {
           "rank": 48,
-          "name": "Bandida Entrenada",
-          "artists": [
-            "KAROL G"
-          ],
-          "album": "Tropicoqueta",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
-          "uri": "spotify:track:3o0nsMGWZMpp3GOEZkVuSR",
-          "url": "https://open.spotify.com/track/3o0nsMGWZMpp3GOEZkVuSR",
-          "duration_ms": 135811
-        },
-        {
-          "rank": 49,
           "name": "The Waiting Game",
           "artists": [
             "Harry Styles"
@@ -1607,6 +1595,18 @@
           "uri": "spotify:track:0tV6LXuVzJR4yifqwQuNwN",
           "url": "https://open.spotify.com/track/0tV6LXuVzJR4yifqwQuNwN",
           "duration_ms": 169960
+        },
+        {
+          "rank": 49,
+          "name": "Bandida Entrenada",
+          "artists": [
+            "KAROL G"
+          ],
+          "album": "Tropicoqueta",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+          "uri": "spotify:track:3o0nsMGWZMpp3GOEZkVuSR",
+          "url": "https://open.spotify.com/track/3o0nsMGWZMpp3GOEZkVuSR",
+          "duration_ms": 135811
         },
         {
           "rank": 50,
