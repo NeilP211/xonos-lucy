@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T06:49:59.737Z",
+  "updated_at": "2026-06-13T11:09:14.403Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -1855,6 +1855,172 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb",
       "uri": "spotify:track:5773KSWFzg9kCc8yazjbSt",
       "duration_ms": 184626
+    },
+    {
+      "played_at": "2026-06-13T02:46:39.352Z",
+      "name": "SS26",
+      "artists": [
+        "Charli xcx"
+      ],
+      "album": "SS26",
+      "image": "https://i.scdn.co/image/ab67616d0000b273516b540fe2ff881fdc36d7f3",
+      "uri": "spotify:track:3d5NbAerF2MMHw9tdIxiFH",
+      "duration_ms": 167674
+    },
+    {
+      "played_at": "2026-06-13T10:15:49.426Z",
+      "name": "drop dead",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:0yO9QD2Ga7eUzqnNYsSSPo",
+      "duration_ms": 224998
+    },
+    {
+      "played_at": "2026-06-13T10:19:19.123Z",
+      "name": "stupid song",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4LfCY65LvojKjWEnU7fNN4",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-06-13T10:23:02.100Z",
+      "name": "honeybee",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:407LgLkk1uM3wMO6jVRe0a",
+      "duration_ms": 223013
+    },
+    {
+      "played_at": "2026-06-13T10:27:02.212Z",
+      "name": "maggots for brains",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:22l7ocwYpEYGvYpM9T2C5K",
+      "duration_ms": 240100
+    },
+    {
+      "played_at": "2026-06-13T10:31:09.823Z",
+      "name": "u + me = <3",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:6Hdc3IQeyCxG5d14uAcwQW",
+      "duration_ms": 247586
+    },
+    {
+      "played_at": "2026-06-13T10:34:10.527Z",
+      "name": "my way",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "duration_ms": 180720
+    },
+    {
+      "played_at": "2026-06-13T10:38:10.610Z",
+      "name": "purple",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4XYCWx98N3h7Y4FtDFmpd5",
+      "duration_ms": 240115
+    },
+    {
+      "played_at": "2026-06-13T10:43:07.704Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-06-13T10:46:45.618Z",
+      "name": "begged",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:3BnMfPPWs59CVfcQ8CcdfR",
+      "duration_ms": 217869
+    },
+    {
+      "played_at": "2026-06-13T10:50:30.513Z",
+      "name": "what’s wrong with me",
+      "artists": [
+        "Olivia Rodrigo",
+        "Robert Smith"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:1W7023CuJrWPbD4q2Sipoh",
+      "duration_ms": 224906
+    },
+    {
+      "played_at": "2026-06-13T10:53:44.323Z",
+      "name": "less",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:1LmRAxdZUEM9xc2wNivy1y",
+      "duration_ms": 193848
+    },
+    {
+      "played_at": "2026-06-13T10:57:26.255Z",
+      "name": "expectations",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:25nbeJzxF3dwvtTq57QKZi",
+      "duration_ms": 221958
+    },
+    {
+      "played_at": "2026-06-13T11:03:07.257Z",
+      "name": "cigarette smoke",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:0e4u0sFRGxHL4U2iFBrUvZ",
+      "duration_ms": 340942
+    },
+    {
+      "played_at": "2026-06-13T11:06:52.717Z",
+      "name": "drop dead",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:0yO9QD2Ga7eUzqnNYsSSPo",
+      "duration_ms": 224998
     }
   ]
 }

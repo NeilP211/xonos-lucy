@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-13T06:49:59.856Z",
-  "is_playing": false,
+  "updated_at": "2026-06-13T11:09:14.514Z",
+  "is_playing": true,
   "track": {
-    "name": "Deceptacon",
+    "name": "stupid song",
     "artists": [
-      "Le Tigre"
+      "Olivia Rodrigo"
     ],
-    "album": "Le Tigre",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb",
-    "uri": "spotify:track:5773KSWFzg9kCc8yazjbSt"
+    "album": "you seem pretty sad for a girl so in love",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "uri": "spotify:track:4LfCY65LvojKjWEnU7fNN4"
   },
-  "played_at": "2026-06-13T02:46:35.456Z"
+  "played_at": "2026-06-13T11:09:14.514Z"
 }
