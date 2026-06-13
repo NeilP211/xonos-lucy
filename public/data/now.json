@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-13T19:09:11.884Z",
-  "is_playing": false,
+  "updated_at": "2026-06-13T21:56:49.449Z",
+  "is_playing": true,
   "track": {
-    "name": "stupid song",
+    "name": "begged",
     "artists": [
       "Olivia Rodrigo"
     ],
     "album": "you seem pretty sad for a girl so in love",
     "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "uri": "spotify:track:4LfCY65LvojKjWEnU7fNN4"
+    "uri": "spotify:track:3BnMfPPWs59CVfcQ8CcdfR"
   },
-  "played_at": "2026-06-13T14:49:42.389Z"
+  "played_at": "2026-06-13T21:56:49.449Z"
 }

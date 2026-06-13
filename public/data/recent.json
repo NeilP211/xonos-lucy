@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T19:09:11.803Z",
+  "updated_at": "2026-06-13T21:56:49.275Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -2486,6 +2486,120 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
       "uri": "spotify:track:4LfCY65LvojKjWEnU7fNN4",
       "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-06-13T14:57:46.613Z",
+      "name": "cigarette smoke",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:0e4u0sFRGxHL4U2iFBrUvZ",
+      "duration_ms": 340942
+    },
+    {
+      "played_at": "2026-06-13T20:15:33.127Z",
+      "name": "Mesytara",
+      "artists": [
+        "Lamis Kan"
+      ],
+      "album": "Mesytara",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8769dc15b35e5cd7147b252",
+      "uri": "spotify:track:0CmbfecTDfXHlKwPtqDoCU",
+      "duration_ms": 167688
+    },
+    {
+      "played_at": "2026-06-13T20:18:12.223Z",
+      "name": "DO YOU LOVE ME? / سنيورة",
+      "artists": [
+        "Saint Levant",
+        "Fares Sokar"
+      ],
+      "album": "Love Letters / رسائل حب (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730d6839f150198f1c23fb40e6",
+      "uri": "spotify:track:4gR1Lpk0478t0M6wrft3y5",
+      "duration_ms": 158571
+    },
+    {
+      "played_at": "2026-06-13T20:20:39.709Z",
+      "name": "Pretty Girls",
+      "artists": [
+        "Reneé Rapp"
+      ],
+      "album": "Snow Angel",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308688d64d1b26bbee0e87857",
+      "uri": "spotify:track:1dh5DUke1yHJzIF3Sa7nXC",
+      "duration_ms": 146234
+    },
+    {
+      "played_at": "2026-06-13T20:32:12.003Z",
+      "name": "Nano",
+      "artists": [
+        "TUL8TE",
+        "Saint Levant"
+      ],
+      "album": "Nano",
+      "image": "https://i.scdn.co/image/ab67616d0000b273281e4b2361521e07d6ea65da",
+      "uri": "spotify:track:6yrZoKcoa7EIx7e7uCCmPW",
+      "duration_ms": 216806
+    },
+    {
+      "played_at": "2026-06-13T20:32:21.745Z",
+      "name": "stupid song",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4LfCY65LvojKjWEnU7fNN4",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-06-13T20:36:20.038Z",
+      "name": "stupid song",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4LfCY65LvojKjWEnU7fNN4",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-06-13T21:36:20.500Z",
+      "name": "what’s wrong with me",
+      "artists": [
+        "Olivia Rodrigo",
+        "Robert Smith"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:1W7023CuJrWPbD4q2Sipoh",
+      "duration_ms": 224906
+    },
+    {
+      "played_at": "2026-06-13T21:50:16.233Z",
+      "name": "what’s wrong with me",
+      "artists": [
+        "Olivia Rodrigo",
+        "Robert Smith"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:1W7023CuJrWPbD4q2Sipoh",
+      "duration_ms": 224906
+    },
+    {
+      "played_at": "2026-06-13T21:54:24.235Z",
+      "name": "u + me = <3",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:6Hdc3IQeyCxG5d14uAcwQW",
+      "duration_ms": 247586
     }
   ]
 }
