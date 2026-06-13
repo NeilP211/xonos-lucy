@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-13T13:26:48.671Z",
-  "is_playing": true,
+  "updated_at": "2026-06-13T16:08:30.528Z",
+  "is_playing": false,
   "track": {
-    "name": "u + me = <3",
+    "name": "stupid song",
     "artists": [
       "Olivia Rodrigo"
     ],
     "album": "you seem pretty sad for a girl so in love",
     "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "uri": "spotify:track:6Hdc3IQeyCxG5d14uAcwQW"
+    "uri": "spotify:track:4LfCY65LvojKjWEnU7fNN4"
   },
-  "played_at": "2026-06-13T13:26:48.671Z"
+  "played_at": "2026-06-13T14:49:42.389Z"
 }
