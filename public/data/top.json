@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T22:18:48.512Z",
+  "generated_at": "2026-06-13T02:31:24.996Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -18,18 +18,6 @@
         },
         {
           "rank": 2,
-          "name": "hate that i made you love me",
-          "artists": [
-            "Ariana Grande"
-          ],
-          "album": "hate that i made you love me",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
-          "uri": "spotify:track:20jbSiX29FDX4oQxBXyUEi",
-          "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
-          "duration_ms": 197949
-        },
-        {
-          "rank": 3,
           "name": "the cure",
           "artists": [
             "Olivia Rodrigo"
@@ -39,6 +27,18 @@
           "uri": "spotify:track:4EoJ151oQ5jY48z4RhSE96",
           "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96",
           "duration_ms": 297090
+        },
+        {
+          "rank": 3,
+          "name": "hate that i made you love me",
+          "artists": [
+            "Ariana Grande"
+          ],
+          "album": "hate that i made you love me",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
+          "uri": "spotify:track:20jbSiX29FDX4oQxBXyUEi",
+          "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi",
+          "duration_ms": 197949
         },
         {
           "rank": 4,
@@ -167,6 +167,18 @@
         },
         {
           "rank": 14,
+          "name": "BIAF <3",
+          "artists": [
+            "Young Miko"
+          ],
+          "album": "Do Not Disturb: Late Checkout",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+          "uri": "spotify:track:6YRif0qQH6DIvfJ4DxR4vn",
+          "url": "https://open.spotify.com/track/6YRif0qQH6DIvfJ4DxR4vn",
+          "duration_ms": 170434
+        },
+        {
+          "rank": 15,
           "name": "MALASNOTICIAS.",
           "artists": [
             "Alvaro Diaz",
@@ -179,19 +191,20 @@
           "duration_ms": 196920
         },
         {
-          "rank": 15,
-          "name": "BIAF <3",
+          "rank": 16,
+          "name": "2:12 AM",
           "artists": [
-            "Young Miko"
+            "Rauw Alejandro",
+            "LATIN MAFIA"
           ],
-          "album": "Do Not Disturb: Late Checkout",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
-          "uri": "spotify:track:6YRif0qQH6DIvfJ4DxR4vn",
-          "url": "https://open.spotify.com/track/6YRif0qQH6DIvfJ4DxR4vn",
-          "duration_ms": 170434
+          "album": "Cosa Nuestra",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+          "uri": "spotify:track:1UTLq40xh63wMrHELGnKWW",
+          "url": "https://open.spotify.com/track/1UTLq40xh63wMrHELGnKWW",
+          "duration_ms": 211918
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "DALOONA / دلعونة",
           "artists": [
             "Saint Levant",
@@ -204,19 +217,6 @@
           "uri": "spotify:track:6rarGBMB56UovPWANZAv8I",
           "url": "https://open.spotify.com/track/6rarGBMB56UovPWANZAv8I",
           "duration_ms": 170769
-        },
-        {
-          "rank": 17,
-          "name": "2:12 AM",
-          "artists": [
-            "Rauw Alejandro",
-            "LATIN MAFIA"
-          ],
-          "album": "Cosa Nuestra",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
-          "uri": "spotify:track:1UTLq40xh63wMrHELGnKWW",
-          "url": "https://open.spotify.com/track/1UTLq40xh63wMrHELGnKWW",
-          "duration_ms": 211918
         },
         {
           "rank": 18,
@@ -375,18 +375,6 @@
         },
         {
           "rank": 30,
-          "name": "secrecy",
-          "artists": [
-            "Ethan Regan"
-          ],
-          "album": "secrecy",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733b3a123aefb689a99b62c48b",
-          "uri": "spotify:track:5Sg615kNA7VUa0zaTvanUc",
-          "url": "https://open.spotify.com/track/5Sg615kNA7VUa0zaTvanUc",
-          "duration_ms": 210000
-        },
-        {
-          "rank": 31,
           "name": "Mesytara",
           "artists": [
             "Lamis Kan"
@@ -398,31 +386,7 @@
           "duration_ms": 167688
         },
         {
-          "rank": 32,
-          "name": "Mean girls",
-          "artists": [
-            "Charli xcx"
-          ],
-          "album": "BRAT",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
-          "uri": "spotify:track:1qKCO2Tocwg8CbepJ9uDtd",
-          "url": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd",
-          "duration_ms": 189410
-        },
-        {
-          "rank": 33,
-          "name": "Nosebleeds",
-          "artists": [
-            "Doechii"
-          ],
-          "album": "Nosebleeds",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b50168e8cd8fd1c991f9a462",
-          "uri": "spotify:track:3QfxeNMKiOMFxHVLlR1L1c",
-          "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c",
-          "duration_ms": 135063
-        },
-        {
-          "rank": 34,
+          "rank": 31,
           "name": "OKI DOKI",
           "artists": [
             "KAROL G"
@@ -434,7 +398,7 @@
           "duration_ms": 143789
         },
         {
-          "rank": 35,
+          "rank": 32,
           "name": "I Was Never There",
           "artists": [
             "The Weeknd",
@@ -447,7 +411,55 @@
           "duration_ms": 241066
         },
         {
+          "rank": 33,
+          "name": "secrecy",
+          "artists": [
+            "Ethan Regan"
+          ],
+          "album": "secrecy",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733b3a123aefb689a99b62c48b",
+          "uri": "spotify:track:5Sg615kNA7VUa0zaTvanUc",
+          "url": "https://open.spotify.com/track/5Sg615kNA7VUa0zaTvanUc",
+          "duration_ms": 210000
+        },
+        {
+          "rank": 34,
+          "name": "drop dead",
+          "artists": [
+            "Olivia Rodrigo"
+          ],
+          "album": "drop dead (taken that eurostar to france video)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731a1495ff41046065b9475366",
+          "uri": "spotify:track:7Hc6qcJG4NtyZgbNvQyd8U",
+          "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U",
+          "duration_ms": 224998
+        },
+        {
+          "rank": 35,
+          "name": "Mean girls",
+          "artists": [
+            "Charli xcx"
+          ],
+          "album": "BRAT",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+          "uri": "spotify:track:1qKCO2Tocwg8CbepJ9uDtd",
+          "url": "https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd",
+          "duration_ms": 189410
+        },
+        {
           "rank": 36,
+          "name": "Nosebleeds",
+          "artists": [
+            "Doechii"
+          ],
+          "album": "Nosebleeds",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b50168e8cd8fd1c991f9a462",
+          "uri": "spotify:track:3QfxeNMKiOMFxHVLlR1L1c",
+          "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c",
+          "duration_ms": 135063
+        },
+        {
+          "rank": 37,
           "name": "Attention",
           "artists": [
             "Doja Cat"
@@ -459,7 +471,7 @@
           "duration_ms": 275512
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "KALAMANTINA / كلمنتينا",
           "artists": [
             "Saint Levant",
@@ -472,7 +484,7 @@
           "duration_ms": 206872
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Sugar On My Tongue",
           "artists": [
             "Tyler, The Creator"
@@ -484,7 +496,7 @@
           "duration_ms": 153332
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "EPA",
           "artists": [
             "Becky G"
@@ -494,18 +506,6 @@
           "uri": "spotify:track:1DtGtvgGRxsfHfwQu3cqfw",
           "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw",
           "duration_ms": 202542
-        },
-        {
-          "rank": 40,
-          "name": "NO. 9",
-          "artists": [
-            "Playboi Carti"
-          ],
-          "album": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
-          "uri": "spotify:track:5Nq6lLSxphlsA6nQB0KtES",
-          "url": "https://open.spotify.com/track/5Nq6lLSxphlsA6nQB0KtES",
-          "duration_ms": 199190
         },
         {
           "rank": 41,
@@ -534,15 +534,15 @@
         },
         {
           "rank": 43,
-          "name": "drop dead",
+          "name": "NO. 9",
           "artists": [
-            "Olivia Rodrigo"
+            "Playboi Carti"
           ],
-          "album": "drop dead (taken that eurostar to france video)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731a1495ff41046065b9475366",
-          "uri": "spotify:track:7Hc6qcJG4NtyZgbNvQyd8U",
-          "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U",
-          "duration_ms": 224998
+          "album": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31a279d267f3b3d8912e6f1",
+          "uri": "spotify:track:5Nq6lLSxphlsA6nQB0KtES",
+          "url": "https://open.spotify.com/track/5Nq6lLSxphlsA6nQB0KtES",
+          "duration_ms": 199190
         },
         {
           "rank": 44,
@@ -595,31 +595,6 @@
         },
         {
           "rank": 48,
-          "name": "E85",
-          "artists": [
-            "Don Toliver"
-          ],
-          "album": "OCTANE",
-          "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
-          "uri": "spotify:track:3B4cjvGlPvyBLNG3AzEgkZ",
-          "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ",
-          "duration_ms": 153181
-        },
-        {
-          "rank": 49,
-          "name": "offline",
-          "artists": [
-            "Young Miko",
-            "Feid"
-          ],
-          "album": "att.",
-          "image": "https://i.scdn.co/image/ab67616d0000b27310dfb6ef442ace580aa5a2bf",
-          "uri": "spotify:track:7s4emXHJwAuo5VvGBXmnBL",
-          "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL",
-          "duration_ms": 201935
-        },
-        {
-          "rank": 50,
           "name": "PRETTY GIRLS",
           "artists": [
             "Frenna"
@@ -629,6 +604,30 @@
           "uri": "spotify:track:0dT0g3uNGWwSzvVvszdVd4",
           "url": "https://open.spotify.com/track/0dT0g3uNGWwSzvVvszdVd4",
           "duration_ms": 145354
+        },
+        {
+          "rank": 49,
+          "name": "Deceptacon",
+          "artists": [
+            "Le Tigre"
+          ],
+          "album": "Le Tigre",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb",
+          "uri": "spotify:track:5773KSWFzg9kCc8yazjbSt",
+          "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt",
+          "duration_ms": 184626
+        },
+        {
+          "rank": 50,
+          "name": "Youngblood",
+          "artists": [
+            "5 Seconds of Summer"
+          ],
+          "album": "Youngblood (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557",
+          "uri": "spotify:track:2iUXsYOEPhVqEBwsqP70rE",
+          "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE",
+          "duration_ms": 203417
         }
       ],
       "artists": [
@@ -650,6 +649,14 @@
         },
         {
           "rank": 3,
+          "name": "Olivia Rodrigo",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+          "genres": [],
+          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "rank": 4,
           "name": "The Weeknd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc1719ac9e6a75c1c25835018",
           "genres": [],
@@ -657,7 +664,7 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Lana Del Rey",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
           "genres": [],
@@ -665,20 +672,12 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Young Miko",
           "image": "https://i.scdn.co/image/ab6761610000e5eb40cf4acf30fe38557adf695e",
           "genres": [],
           "uri": "spotify:artist:3qsKSpcV3ncke3hw52JSMB",
           "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "rank": 6,
-          "name": "Olivia Rodrigo",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-          "genres": [],
-          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
           "rank": 7,
@@ -2558,6 +2557,19 @@
         },
         {
           "rank": 44,
+          "name": "Love Hangover (feat. Dominic Fike)",
+          "artists": [
+            "JENNIE",
+            "Dominic Fike"
+          ],
+          "album": "Ruby",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
+          "uri": "spotify:track:0rx7xu0RmZLpJjKNVZjSVv",
+          "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
+          "duration_ms": 180129
+        },
+        {
+          "rank": 45,
           "name": "gone girl (feat. Trippie Redd)",
           "artists": [
             "iann dior",
@@ -2570,7 +2582,7 @@
           "duration_ms": 136568
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Don’t Smile",
           "artists": [
             "Sabrina Carpenter"
@@ -2582,7 +2594,7 @@
           "duration_ms": 206295
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "KÁRMIKA",
           "artists": [
             "KAROL G",
@@ -2596,32 +2608,7 @@
           "duration_ms": 236586
         },
         {
-          "rank": 47,
-          "name": "LATINA FOREVA",
-          "artists": [
-            "KAROL G"
-          ],
-          "album": "Tropicoqueta",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
-          "uri": "spotify:track:2KrQbq3aqGOFGnkTKnN2XA",
-          "url": "https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA",
-          "duration_ms": 159522
-        },
-        {
           "rank": 48,
-          "name": "Love Hangover (feat. Dominic Fike)",
-          "artists": [
-            "JENNIE",
-            "Dominic Fike"
-          ],
-          "album": "Ruby",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dcf27dec5e479b2e39c4c993",
-          "uri": "spotify:track:0rx7xu0RmZLpJjKNVZjSVv",
-          "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv",
-          "duration_ms": 180129
-        },
-        {
-          "rank": 49,
           "name": "offline",
           "artists": [
             "Young Miko",
@@ -2632,6 +2619,18 @@
           "uri": "spotify:track:7s4emXHJwAuo5VvGBXmnBL",
           "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL",
           "duration_ms": 201935
+        },
+        {
+          "rank": 49,
+          "name": "LATINA FOREVA",
+          "artists": [
+            "KAROL G"
+          ],
+          "album": "Tropicoqueta",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
+          "uri": "spotify:track:2KrQbq3aqGOFGnkTKnN2XA",
+          "url": "https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA",
+          "duration_ms": 159522
         },
         {
           "rank": 50,
@@ -2714,6 +2713,14 @@
         },
         {
           "rank": 9,
+          "name": "Olivia Rodrigo",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+          "genres": [],
+          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "rank": 10,
           "name": "Billie Eilish",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
           "genres": [],
@@ -2721,7 +2728,7 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Becky G",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3d24f1805384b8d43c8cae42",
           "genres": [],
@@ -2729,7 +2736,7 @@
           "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Lana Del Rey",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
           "genres": [],
@@ -2737,20 +2744,12 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
           "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "rank": 13,
-          "name": "Olivia Rodrigo",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-          "genres": [],
-          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
           "rank": 14,
@@ -2906,6 +2905,14 @@
         },
         {
           "rank": 33,
+          "name": "Young Miko",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb40cf4acf30fe38557adf695e",
+          "genres": [],
+          "uri": "spotify:artist:3qsKSpcV3ncke3hw52JSMB",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "rank": 34,
           "name": "Gracie Abrams",
           "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
@@ -2913,7 +2920,7 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Kehlani",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcf865d7d399a41e1bd036149",
           "genres": [],
@@ -2921,7 +2928,7 @@
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Doja Cat",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
           "genres": [],
@@ -2929,31 +2936,7 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
-          "rank": 36,
-          "name": "Kanye West",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
-          "genres": [],
-          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
           "rank": 37,
-          "name": "Khalid",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8f77c3eddc1869e9542b04bc",
-          "genres": [],
-          "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "rank": 38,
-          "name": "Reneé Rapp",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba913b09c2b17424e34c55e5e",
-          "genres": [],
-          "uri": "spotify:artist:2hUYKu1x0UZQXvzCmggvSn",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        },
-        {
-          "rank": 39,
           "name": "Saint Levant",
           "image": "https://i.scdn.co/image/ab6761610000e5eba6cf77fbcdc8d5f9bf33a032",
           "genres": [],
@@ -2961,7 +2944,31 @@
           "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
         },
         {
+          "rank": 38,
+          "name": "Kanye West",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
+          "genres": [],
+          "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "rank": 39,
+          "name": "Khalid",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8f77c3eddc1869e9542b04bc",
+          "genres": [],
+          "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
           "rank": 40,
+          "name": "Reneé Rapp",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba913b09c2b17424e34c55e5e",
+          "genres": [],
+          "uri": "spotify:artist:2hUYKu1x0UZQXvzCmggvSn",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "rank": 41,
           "name": "Aminé",
           "image": "https://i.scdn.co/image/ab6761610000e5eb31ad986e8e1328db4b3d83cd",
           "genres": [],
@@ -2969,7 +2976,7 @@
           "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Miley Cyrus",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14a2f1cede69cef4fb03b60",
           "genres": [],
@@ -2977,20 +2984,12 @@
           "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "ROSALÍA",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9354faf80eb87961466edfbf",
           "genres": [],
           "uri": "spotify:artist:7ltDVBr6mKbRvohxheJ9h1",
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "rank": 43,
-          "name": "Young Miko",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb40cf4acf30fe38557adf695e",
-          "genres": [],
-          "uri": "spotify:artist:3qsKSpcV3ncke3hw52JSMB",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         },
         {
           "rank": 44,

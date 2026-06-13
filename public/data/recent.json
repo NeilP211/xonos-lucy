@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T22:18:48.691Z",
+  "updated_at": "2026-06-13T02:31:25.164Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -1587,6 +1587,241 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
       "uri": "spotify:track:1W7023CuJrWPbD4q2Sipoh",
       "duration_ms": 224906
+    },
+    {
+      "played_at": "2026-06-12T22:21:17.145Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-06-12T22:33:55.562Z",
+      "name": "my way",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "duration_ms": 180720
+    },
+    {
+      "played_at": "2026-06-12T22:37:55.744Z",
+      "name": "purple",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4XYCWx98N3h7Y4FtDFmpd5",
+      "duration_ms": 240115
+    },
+    {
+      "played_at": "2026-06-12T22:42:52.739Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-06-12T22:46:30.624Z",
+      "name": "begged",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:3BnMfPPWs59CVfcQ8CcdfR",
+      "duration_ms": 217869
+    },
+    {
+      "played_at": "2026-06-12T22:52:01.338Z",
+      "name": "what’s wrong with me",
+      "artists": [
+        "Olivia Rodrigo",
+        "Robert Smith"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:1W7023CuJrWPbD4q2Sipoh",
+      "duration_ms": 224906
+    },
+    {
+      "played_at": "2026-06-12T22:55:15.154Z",
+      "name": "less",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:1LmRAxdZUEM9xc2wNivy1y",
+      "duration_ms": 193848
+    },
+    {
+      "played_at": "2026-06-12T22:58:57.103Z",
+      "name": "expectations",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:25nbeJzxF3dwvtTq57QKZi",
+      "duration_ms": 221958
+    },
+    {
+      "played_at": "2026-06-12T23:04:38.090Z",
+      "name": "cigarette smoke",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:0e4u0sFRGxHL4U2iFBrUvZ",
+      "duration_ms": 340942
+    },
+    {
+      "played_at": "2026-06-12T23:19:12.278Z",
+      "name": "my way",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "duration_ms": 180720
+    },
+    {
+      "played_at": "2026-06-12T23:23:12.421Z",
+      "name": "purple",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4XYCWx98N3h7Y4FtDFmpd5",
+      "duration_ms": 240115
+    },
+    {
+      "played_at": "2026-06-12T23:28:09.468Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-06-12T23:31:47.372Z",
+      "name": "begged",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:3BnMfPPWs59CVfcQ8CcdfR",
+      "duration_ms": 217869
+    },
+    {
+      "played_at": "2026-06-12T23:35:32.171Z",
+      "name": "what’s wrong with me",
+      "artists": [
+        "Olivia Rodrigo",
+        "Robert Smith"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:1W7023CuJrWPbD4q2Sipoh",
+      "duration_ms": 224906
+    },
+    {
+      "played_at": "2026-06-12T23:38:46.069Z",
+      "name": "less",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:1LmRAxdZUEM9xc2wNivy1y",
+      "duration_ms": 193848
+    },
+    {
+      "played_at": "2026-06-12T23:41:23.281Z",
+      "name": "drop dead",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:0yO9QD2Ga7eUzqnNYsSSPo",
+      "duration_ms": 224998
+    },
+    {
+      "played_at": "2026-06-12T23:50:05.707Z",
+      "name": "bad idea right?",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "uri": "spotify:track:3IX0yuEVvDbnqUwMBB3ouC",
+      "duration_ms": 184783
+    },
+    {
+      "played_at": "2026-06-12T23:53:45.456Z",
+      "name": "vampire",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
+      "duration_ms": 219724
+    },
+    {
+      "played_at": "2026-06-13T02:16:33.839Z",
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "artists": [
+        "Omar Courtz",
+        "De La Rose"
+      ],
+      "album": "PRIMERA MUSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273996764071dbd5240eefb2422",
+      "uri": "spotify:track:0Sr7ssScx54yxdM2ols7nW",
+      "duration_ms": 224022
+    },
+    {
+      "played_at": "2026-06-13T02:22:02.082Z",
+      "name": "Todo De Ti",
+      "artists": [
+        "Rauw Alejandro"
+      ],
+      "album": "VICE VERSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f793c0c53727d8c5c950f809",
+      "uri": "spotify:track:3rdAz1fbUfZxYgaCviYhRo",
+      "duration_ms": 199604
+    },
+    {
+      "played_at": "2026-06-13T02:25:45.213Z",
+      "name": "Tattoo - Remix with Camilo",
+      "artists": [
+        "Rauw Alejandro",
+        "Camilo"
+      ],
+      "album": "Tattoo (Remix with Camilo)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738254b71110c897449937afa1",
+      "uri": "spotify:track:4ZRrLHqzhGRXYj2qcB4s5S",
+      "duration_ms": 222680
     }
   ]
 }

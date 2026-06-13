@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-12T22:18:48.790Z",
-  "is_playing": true,
+  "updated_at": "2026-06-13T02:31:25.193Z",
+  "is_playing": false,
   "track": {
-    "name": "the cure",
+    "name": "Tattoo - Remix with Camilo",
     "artists": [
-      "Olivia Rodrigo"
+      "Rauw Alejandro",
+      "Camilo"
     ],
-    "album": "you seem pretty sad for a girl so in love",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H"
+    "album": "Tattoo (Remix with Camilo)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738254b71110c897449937afa1",
+    "uri": "spotify:track:4ZRrLHqzhGRXYj2qcB4s5S"
   },
-  "played_at": "2026-06-12T22:18:48.790Z"
+  "played_at": "2026-06-13T02:25:45.213Z"
 }
