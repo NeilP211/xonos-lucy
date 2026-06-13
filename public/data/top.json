@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T02:31:24.996Z",
+  "generated_at": "2026-06-13T06:49:59.580Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -361,6 +361,18 @@
         },
         {
           "rank": 29,
+          "name": "OKI DOKI",
+          "artists": [
+            "KAROL G"
+          ],
+          "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03",
+          "uri": "spotify:track:4gJfPoMIcSDGY0tMGxm6Fu",
+          "url": "https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu",
+          "duration_ms": 143789
+        },
+        {
+          "rank": 30,
           "name": "Morni",
           "artists": [
             "Diljit Dosanjh",
@@ -374,7 +386,7 @@
           "duration_ms": 205500
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Mesytara",
           "artists": [
             "Lamis Kan"
@@ -384,18 +396,6 @@
           "uri": "spotify:track:0CmbfecTDfXHlKwPtqDoCU",
           "url": "https://open.spotify.com/track/0CmbfecTDfXHlKwPtqDoCU",
           "duration_ms": 167688
-        },
-        {
-          "rank": 31,
-          "name": "OKI DOKI",
-          "artists": [
-            "KAROL G"
-          ],
-          "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03",
-          "uri": "spotify:track:4gJfPoMIcSDGY0tMGxm6Fu",
-          "url": "https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu",
-          "duration_ms": 143789
         },
         {
           "rank": 32,
@@ -460,6 +460,18 @@
         },
         {
           "rank": 37,
+          "name": "Deceptacon",
+          "artists": [
+            "Le Tigre"
+          ],
+          "album": "Le Tigre",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb",
+          "uri": "spotify:track:5773KSWFzg9kCc8yazjbSt",
+          "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt",
+          "duration_ms": 184626
+        },
+        {
+          "rank": 38,
           "name": "Attention",
           "artists": [
             "Doja Cat"
@@ -471,7 +483,7 @@
           "duration_ms": 275512
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "KALAMANTINA / كلمنتينا",
           "artists": [
             "Saint Levant",
@@ -484,7 +496,7 @@
           "duration_ms": 206872
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Sugar On My Tongue",
           "artists": [
             "Tyler, The Creator"
@@ -496,7 +508,7 @@
           "duration_ms": 153332
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "EPA",
           "artists": [
             "Becky G"
@@ -508,7 +520,7 @@
           "duration_ms": 202542
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "The Adults Are Talking",
           "artists": [
             "The Strokes"
@@ -520,7 +532,7 @@
           "duration_ms": 309053
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Peppers (feat. Tommy Genesis)",
           "artists": [
             "Lana Del Rey",
@@ -533,7 +545,7 @@
           "duration_ms": 248928
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "NO. 9",
           "artists": [
             "Playboi Carti"
@@ -545,7 +557,7 @@
           "duration_ms": 199190
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "ZiGZaG",
           "artists": [
             "ALLY"
@@ -557,7 +569,7 @@
           "duration_ms": 154965
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "FINA",
           "artists": [
             "Bad Bunny",
@@ -570,7 +582,7 @@
           "duration_ms": 216327
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "7 rings",
           "artists": [
             "Ariana Grande"
@@ -582,7 +594,7 @@
           "duration_ms": 178626
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Earl Gray",
           "artists": [
             "a子"
@@ -594,7 +606,7 @@
           "duration_ms": 141106
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "PRETTY GIRLS",
           "artists": [
             "Frenna"
@@ -604,18 +616,6 @@
           "uri": "spotify:track:0dT0g3uNGWwSzvVvszdVd4",
           "url": "https://open.spotify.com/track/0dT0g3uNGWwSzvVvszdVd4",
           "duration_ms": 145354
-        },
-        {
-          "rank": 49,
-          "name": "Deceptacon",
-          "artists": [
-            "Le Tigre"
-          ],
-          "album": "Le Tigre",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb",
-          "uri": "spotify:track:5773KSWFzg9kCc8yazjbSt",
-          "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt",
-          "duration_ms": 184626
         },
         {
           "rank": 50,
@@ -641,19 +641,19 @@
         },
         {
           "rank": 2,
-          "name": "Playboi Carti",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
-          "genres": [],
-          "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "rank": 3,
           "name": "Olivia Rodrigo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
           "genres": [],
           "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "rank": 3,
+          "name": "Playboi Carti",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
+          "genres": [],
+          "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         },
         {
           "rank": 4,
@@ -937,6 +937,14 @@
         },
         {
           "rank": 39,
+          "name": "Rauw Alejandro",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6d72db3fd29576caa9cb821f",
+          "genres": [],
+          "uri": "spotify:artist:1mcTU81TzQhprhouKaTkpq",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "rank": 40,
           "name": "Travis Scott",
           "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
           "genres": [],
@@ -944,7 +952,7 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "rommulas",
           "image": "https://i.scdn.co/image/ab6761610000e5eb51005ca03cd844ff8ce50269",
           "genres": [],
@@ -952,7 +960,7 @@
           "url": "https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Harry Styles",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe309f8c3056a59f20d0968ca",
           "genres": [],
@@ -960,7 +968,7 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Post Malone",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe17c0aa1714a03d62b5ce4e0",
           "genres": [],
@@ -968,7 +976,7 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Doechii",
           "image": "https://i.scdn.co/image/ab6761610000e5ebca2fee52c41d3f58ceb6474b",
           "genres": [],
@@ -976,7 +984,7 @@
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Bad Bunny",
           "image": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
           "genres": [],
@@ -984,7 +992,7 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "The Neighbourhood",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
           "genres": [],
@@ -992,7 +1000,7 @@
           "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "J. Cole",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc401ea77e86ee984b1ba9fc2",
           "genres": [],

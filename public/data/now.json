@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-13T02:31:25.193Z",
+  "updated_at": "2026-06-13T06:49:59.856Z",
   "is_playing": false,
   "track": {
-    "name": "Tattoo - Remix with Camilo",
+    "name": "Deceptacon",
     "artists": [
-      "Rauw Alejandro",
-      "Camilo"
+      "Le Tigre"
     ],
-    "album": "Tattoo (Remix with Camilo)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738254b71110c897449937afa1",
-    "uri": "spotify:track:4ZRrLHqzhGRXYj2qcB4s5S"
+    "album": "Le Tigre",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb",
+    "uri": "spotify:track:5773KSWFzg9kCc8yazjbSt"
   },
-  "played_at": "2026-06-13T02:25:45.213Z"
+  "played_at": "2026-06-13T02:46:35.456Z"
 }

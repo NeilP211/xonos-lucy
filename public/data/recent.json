@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T02:31:25.164Z",
+  "updated_at": "2026-06-13T06:49:59.737Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -1822,6 +1822,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738254b71110c897449937afa1",
       "uri": "spotify:track:4ZRrLHqzhGRXYj2qcB4s5S",
       "duration_ms": 222680
+    },
+    {
+      "played_at": "2026-06-13T02:40:05.709Z",
+      "name": "my way",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "duration_ms": 180720
+    },
+    {
+      "played_at": "2026-06-13T02:42:30.130Z",
+      "name": "OKI DOKI",
+      "artists": [
+        "KAROL G"
+      ],
+      "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734a8c1bbd60d89887c5016245",
+      "uri": "spotify:track:601dhwn8qc31FrSlMu5wEf",
+      "duration_ms": 143789
+    },
+    {
+      "played_at": "2026-06-13T02:46:35.456Z",
+      "name": "Deceptacon",
+      "artists": [
+        "Le Tigre"
+      ],
+      "album": "Le Tigre",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb",
+      "uri": "spotify:track:5773KSWFzg9kCc8yazjbSt",
+      "duration_ms": 184626
     }
   ]
 }
