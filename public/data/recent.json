@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T13:29:44.025Z",
+  "updated_at": "2026-06-14T16:16:19.231Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -3151,6 +3151,218 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
       "uri": "spotify:track:0e4u0sFRGxHL4U2iFBrUvZ",
       "duration_ms": 340942
+    },
+    {
+      "played_at": "2026-06-14T13:34:25.324Z",
+      "name": "Old Money",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "uri": "spotify:track:0syXbGoFZbTMXm8hGCEvW0",
+      "duration_ms": 135546
+    },
+    {
+      "played_at": "2026-06-14T13:36:45.698Z",
+      "name": "Old Money",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "Die Lit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194",
+      "uri": "spotify:track:0syXbGoFZbTMXm8hGCEvW0",
+      "duration_ms": 135546
+    },
+    {
+      "played_at": "2026-06-14T13:40:28.288Z",
+      "name": "Poison Poison",
+      "artists": [
+        "Reneé Rapp"
+      ],
+      "album": "Snow Angel",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308688d64d1b26bbee0e87857",
+      "uri": "spotify:track:7e1arKsP7vPjdwssVPHgZk",
+      "duration_ms": 191451
+    },
+    {
+      "played_at": "2026-06-14T13:43:08.891Z",
+      "name": "Gemini Moon",
+      "artists": [
+        "Reneé Rapp"
+      ],
+      "album": "Snow Angel",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308688d64d1b26bbee0e87857",
+      "uri": "spotify:track:5125gTidGz2jJSSDpUvdMt",
+      "duration_ms": 160579
+    },
+    {
+      "played_at": "2026-06-14T13:46:44.389Z",
+      "name": "Snow Angel",
+      "artists": [
+        "Reneé Rapp"
+      ],
+      "album": "Snow Angel",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308688d64d1b26bbee0e87857",
+      "uri": "spotify:track:6skUuqrKMQIjjo75hWGAvQ",
+      "duration_ms": 215464
+    },
+    {
+      "played_at": "2026-06-14T13:49:35.281Z",
+      "name": "So What Now",
+      "artists": [
+        "Reneé Rapp"
+      ],
+      "album": "Snow Angel",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308688d64d1b26bbee0e87857",
+      "uri": "spotify:track:2VttL8MR8YY2Ktw3PED7w2",
+      "duration_ms": 170986
+    },
+    {
+      "played_at": "2026-06-14T13:52:38.793Z",
+      "name": "The Wedding Song",
+      "artists": [
+        "Reneé Rapp"
+      ],
+      "album": "Snow Angel",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308688d64d1b26bbee0e87857",
+      "uri": "spotify:track:3UNTCTqSGhVaaMQvBty1q6",
+      "duration_ms": 183339
+    },
+    {
+      "played_at": "2026-06-14T13:55:04.993Z",
+      "name": "Pretty Girls",
+      "artists": [
+        "Reneé Rapp"
+      ],
+      "album": "Snow Angel",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308688d64d1b26bbee0e87857",
+      "uri": "spotify:track:1dh5DUke1yHJzIF3Sa7nXC",
+      "duration_ms": 146234
+    },
+    {
+      "played_at": "2026-06-14T13:58:12.084Z",
+      "name": "Tummy Hurts",
+      "artists": [
+        "Reneé Rapp"
+      ],
+      "album": "Snow Angel",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308688d64d1b26bbee0e87857",
+      "uri": "spotify:track:0hFTdvxUbHl1CqrdZcbWtZ",
+      "duration_ms": 168978
+    },
+    {
+      "played_at": "2026-06-14T13:59:07.588Z",
+      "name": "I Wish",
+      "artists": [
+        "Reneé Rapp"
+      ],
+      "album": "Snow Angel",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308688d64d1b26bbee0e87857",
+      "uri": "spotify:track:26XwZdrPvfkZWe4MfF4VLw",
+      "duration_ms": 223061
+    },
+    {
+      "played_at": "2026-06-14T14:07:18.573Z",
+      "name": "bad idea right?",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "uri": "spotify:track:3IX0yuEVvDbnqUwMBB3ouC",
+      "duration_ms": 184783
+    },
+    {
+      "played_at": "2026-06-14T14:10:58.216Z",
+      "name": "vampire",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
+      "duration_ms": 219724
+    },
+    {
+      "played_at": "2026-06-14T14:14:06.805Z",
+      "name": "my way",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "duration_ms": 180720
+    },
+    {
+      "played_at": "2026-06-14T14:18:27.958Z",
+      "name": "purple",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4XYCWx98N3h7Y4FtDFmpd5",
+      "duration_ms": 240115
+    },
+    {
+      "played_at": "2026-06-14T14:23:24.969Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-06-14T14:28:08.801Z",
+      "name": "MALASNOTICIAS.",
+      "artists": [
+        "Alvaro Diaz",
+        "LATIN MAFIA"
+      ],
+      "album": "MALASNOTICIAS.",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311eff7637d3aa7f8d8c990a3",
+      "uri": "spotify:track:5W1bHlFGv5jJw1xyWQJlrJ",
+      "duration_ms": 196920
+    },
+    {
+      "played_at": "2026-06-14T14:34:10.078Z",
+      "name": "MALASNOTICIAS.",
+      "artists": [
+        "Alvaro Diaz",
+        "LATIN MAFIA"
+      ],
+      "album": "MALASNOTICIAS.",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311eff7637d3aa7f8d8c990a3",
+      "uri": "spotify:track:5W1bHlFGv5jJw1xyWQJlrJ",
+      "duration_ms": 196920
+    },
+    {
+      "played_at": "2026-06-14T14:36:56.317Z",
+      "name": "Siento que merezco más",
+      "artists": [
+        "LATIN MAFIA"
+      ],
+      "album": "TODOS LOS DÍAS TODO EL DÍA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e92f2d649b34dbf56cf2264",
+      "uri": "spotify:track:4Z6pPinNzkGtbgAlE88263",
+      "duration_ms": 165720
+    },
+    {
+      "played_at": "2026-06-14T14:40:41.510Z",
+      "name": "Patadas de Ahogado",
+      "artists": [
+        "LATIN MAFIA",
+        "HUMBE"
+      ],
+      "album": "Patadas de Ahogado",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733542ee7aa1fae36968cc180b",
+      "uri": "spotify:track:4WefXOf8I4gMjdj2kBJgkl",
+      "duration_ms": 224835
     }
   ]
 }

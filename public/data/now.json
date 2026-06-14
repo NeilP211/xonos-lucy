@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-14T13:29:44.112Z",
+  "updated_at": "2026-06-14T16:16:19.335Z",
   "is_playing": false,
   "track": {
-    "name": "cigarette smoke",
+    "name": "Patadas de Ahogado",
     "artists": [
-      "Olivia Rodrigo"
+      "LATIN MAFIA",
+      "HUMBE"
     ],
-    "album": "you seem pretty sad for a girl so in love",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "uri": "spotify:track:0e4u0sFRGxHL4U2iFBrUvZ"
+    "album": "Patadas de Ahogado",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733542ee7aa1fae36968cc180b",
+    "uri": "spotify:track:4WefXOf8I4gMjdj2kBJgkl"
   },
-  "played_at": "2026-06-14T13:19:40.836Z"
+  "played_at": "2026-06-14T14:40:41.510Z"
 }
