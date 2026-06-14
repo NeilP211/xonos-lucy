@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-14T11:24:12.609Z",
+  "updated_at": "2026-06-14T13:29:44.112Z",
   "is_playing": false,
   "track": {
-    "name": "Q U E V A S H A C E R H O Y ?",
+    "name": "cigarette smoke",
     "artists": [
-      "Omar Courtz",
-      "De La Rose"
+      "Olivia Rodrigo"
     ],
-    "album": "PRIMERA MUSA",
-    "image": "https://i.scdn.co/image/ab67616d0000b273996764071dbd5240eefb2422",
-    "uri": "spotify:track:0Sr7ssScx54yxdM2ols7nW"
+    "album": "you seem pretty sad for a girl so in love",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "uri": "spotify:track:0e4u0sFRGxHL4U2iFBrUvZ"
   },
-  "played_at": "2026-06-14T09:46:52.401Z"
+  "played_at": "2026-06-14T13:19:40.836Z"
 }
