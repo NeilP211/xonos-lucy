@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T16:16:19.231Z",
+  "updated_at": "2026-06-14T19:09:39.589Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -3363,6 +3363,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733542ee7aa1fae36968cc180b",
       "uri": "spotify:track:4WefXOf8I4gMjdj2kBJgkl",
       "duration_ms": 224835
+    },
+    {
+      "played_at": "2026-06-14T18:05:21.712Z",
+      "name": "2:12 AM",
+      "artists": [
+        "Rauw Alejandro",
+        "LATIN MAFIA"
+      ],
+      "album": "Cosa Nuestra",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b",
+      "uri": "spotify:track:1UTLq40xh63wMrHELGnKWW",
+      "duration_ms": 211918
+    },
+    {
+      "played_at": "2026-06-14T18:08:31.019Z",
+      "name": "my way",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "duration_ms": 180720
+    },
+    {
+      "played_at": "2026-06-14T18:13:32.594Z",
+      "name": "my way",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "duration_ms": 180720
+    },
+    {
+      "played_at": "2026-06-14T18:17:16.175Z",
+      "name": "KALAMANTINA / كلمنتينا",
+      "artists": [
+        "Saint Levant",
+        "Marwan Moussa"
+      ],
+      "album": "Love Letters / رسائل حب",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
+      "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD",
+      "duration_ms": 206872
     }
   ]
 }
