@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T07:16:36.091Z",
+  "updated_at": "2026-06-14T11:24:12.497Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -2771,6 +2771,98 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
       "uri": "spotify:track:7bywjHOc0wSjGGbj04XbVi",
       "duration_ms": 196800
+    },
+    {
+      "played_at": "2026-06-14T09:24:30.601Z",
+      "name": "ALAKRAN",
+      "artists": [
+        "Feid"
+      ],
+      "album": "FERXXOCALIPSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
+      "uri": "spotify:track:2Yc3MHpZ9R5UCIz78E20AQ",
+      "duration_ms": 90613
+    },
+    {
+      "played_at": "2026-06-14T09:27:56.775Z",
+      "name": "MALASNOTICIAS.",
+      "artists": [
+        "Alvaro Diaz",
+        "LATIN MAFIA"
+      ],
+      "album": "MALASNOTICIAS.",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311eff7637d3aa7f8d8c990a3",
+      "uri": "spotify:track:5W1bHlFGv5jJw1xyWQJlrJ",
+      "duration_ms": 196920
+    },
+    {
+      "played_at": "2026-06-14T09:30:24.077Z",
+      "name": "Earl Gray",
+      "artists": [
+        "a子"
+      ],
+      "album": "lovely moments",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739315d933ebc83c4f166ece7f",
+      "uri": "spotify:track:5Spfwdtkc8rssdksOF223Y",
+      "duration_ms": 141106
+    },
+    {
+      "played_at": "2026-06-14T09:34:18.218Z",
+      "name": "RATHER LIE (with The Weeknd)",
+      "artists": [
+        "Playboi Carti",
+        "The Weeknd"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:68qeaZhtMZ6abrJCYt6nQn",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-06-14T09:36:56.376Z",
+      "name": "Sour Candy (with BLACKPINK)",
+      "artists": [
+        "Lady Gaga",
+        "BLACKPINK"
+      ],
+      "album": "Sour Candy (with BLACKPINK)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273348a8b432f3e8e02f342056e",
+      "uri": "spotify:track:6R6ZoHTypt5lt68MWbzZXv",
+      "duration_ms": 157706
+    },
+    {
+      "played_at": "2026-06-14T09:40:02.383Z",
+      "name": "Shinunoga E-Wa",
+      "artists": [
+        "Fujii Kaze"
+      ],
+      "album": "HELP EVER HURT NEVER",
+      "image": "https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc",
+      "uri": "spotify:track:0o9zmvc5f3EFApU52PPIyW",
+      "duration_ms": 185573
+    },
+    {
+      "played_at": "2026-06-14T09:43:07.918Z",
+      "name": "E85",
+      "artists": [
+        "Don Toliver"
+      ],
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "uri": "spotify:track:3B4cjvGlPvyBLNG3AzEgkZ",
+      "duration_ms": 153181
+    },
+    {
+      "played_at": "2026-06-14T09:46:52.401Z",
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "artists": [
+        "Omar Courtz",
+        "De La Rose"
+      ],
+      "album": "PRIMERA MUSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273996764071dbd5240eefb2422",
+      "uri": "spotify:track:0Sr7ssScx54yxdM2ols7nW",
+      "duration_ms": 224022
     }
   ]
 }
