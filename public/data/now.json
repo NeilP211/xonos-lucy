@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-13T21:56:49.449Z",
-  "is_playing": true,
+  "updated_at": "2026-06-14T02:42:40.528Z",
+  "is_playing": false,
   "track": {
-    "name": "begged",
+    "name": "LUNA",
     "artists": [
-      "Olivia Rodrigo"
+      "Feid",
+      "ATL Jacob"
     ],
-    "album": "you seem pretty sad for a girl so in love",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "uri": "spotify:track:3BnMfPPWs59CVfcQ8CcdfR"
+    "album": "FERXXOCALIPSIS",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
+    "uri": "spotify:track:7bywjHOc0wSjGGbj04XbVi"
   },
-  "played_at": "2026-06-13T21:56:49.449Z"
+  "played_at": "2026-06-14T02:21:13.925Z"
 }

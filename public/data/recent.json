@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T21:56:49.275Z",
+  "updated_at": "2026-06-14T02:42:40.415Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -2600,6 +2600,177 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
       "uri": "spotify:track:6Hdc3IQeyCxG5d14uAcwQW",
       "duration_ms": 247586
+    },
+    {
+      "played_at": "2026-06-13T22:07:37.621Z",
+      "name": "begged",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:3BnMfPPWs59CVfcQ8CcdfR",
+      "duration_ms": 217869
+    },
+    {
+      "played_at": "2026-06-13T23:53:20.946Z",
+      "name": "what’s wrong with me",
+      "artists": [
+        "Olivia Rodrigo",
+        "Robert Smith"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:1W7023CuJrWPbD4q2Sipoh",
+      "duration_ms": 224906
+    },
+    {
+      "played_at": "2026-06-13T23:57:23.166Z",
+      "name": "purple",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4XYCWx98N3h7Y4FtDFmpd5",
+      "duration_ms": 240115
+    },
+    {
+      "played_at": "2026-06-13T23:57:26.207Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-06-14T01:23:50.171Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-06-14T01:32:14.104Z",
+      "name": "expectations",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:25nbeJzxF3dwvtTq57QKZi",
+      "duration_ms": 221958
+    },
+    {
+      "played_at": "2026-06-14T01:37:25.230Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-06-14T01:40:44.557Z",
+      "name": "pretty isn’t pretty",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "uri": "spotify:track:6W9l02gRsXVxzIuQC1oc1X",
+      "duration_ms": 199422
+    },
+    {
+      "played_at": "2026-06-14T01:59:19.131Z",
+      "name": "Aquel diciembre",
+      "artists": [
+        "Young Miko",
+        "Rauw Alejandro"
+      ],
+      "album": "Do Not Disturb: Late Checkout",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+      "uri": "spotify:track:6A2VAtuRu5p5LymL4RSCBG",
+      "duration_ms": 202413
+    },
+    {
+      "played_at": "2026-06-14T02:03:17.883Z",
+      "name": "L$D",
+      "artists": [
+        "A$AP Rocky"
+      ],
+      "album": "AT.LONG.LAST.A$AP",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349efdc44d0733042f8b99d57",
+      "uri": "spotify:track:4S7YHmlWwfwArgd8LfSPud",
+      "duration_ms": 238314
+    },
+    {
+      "played_at": "2026-06-14T02:06:08.844Z",
+      "name": "BIAF <3",
+      "artists": [
+        "Young Miko"
+      ],
+      "album": "Do Not Disturb: Late Checkout",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c8aeb68e2d5cb49ede9fe55",
+      "uri": "spotify:track:6YRif0qQH6DIvfJ4DxR4vn",
+      "duration_ms": 170434
+    },
+    {
+      "played_at": "2026-06-14T02:09:02.631Z",
+      "name": "No Me Cansare",
+      "artists": [
+        "Sevdaliza",
+        "KAROL G"
+      ],
+      "album": "No Me Cansare",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a41b6a2fd23131e45ef762b3",
+      "uri": "spotify:track:7syffZQA1dpkQelMckldEw",
+      "duration_ms": 162857
+    },
+    {
+      "played_at": "2026-06-14T02:12:25.096Z",
+      "name": "offline",
+      "artists": [
+        "Young Miko",
+        "Feid"
+      ],
+      "album": "att.",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310dfb6ef442ace580aa5a2bf",
+      "uri": "spotify:track:7s4emXHJwAuo5VvGBXmnBL",
+      "duration_ms": 201935
+    },
+    {
+      "played_at": "2026-06-14T02:15:42.491Z",
+      "name": "MALASNOTICIAS.",
+      "artists": [
+        "Alvaro Diaz",
+        "LATIN MAFIA"
+      ],
+      "album": "MALASNOTICIAS.",
+      "image": "https://i.scdn.co/image/ab67616d0000b27311eff7637d3aa7f8d8c990a3",
+      "uri": "spotify:track:5W1bHlFGv5jJw1xyWQJlrJ",
+      "duration_ms": 196920
+    },
+    {
+      "played_at": "2026-06-14T02:21:13.925Z",
+      "name": "LUNA",
+      "artists": [
+        "Feid",
+        "ATL Jacob"
+      ],
+      "album": "FERXXOCALIPSIS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242",
+      "uri": "spotify:track:7bywjHOc0wSjGGbj04XbVi",
+      "duration_ms": 196800
     }
   ]
 }
