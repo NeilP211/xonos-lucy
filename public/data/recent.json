@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T19:09:39.589Z",
+  "updated_at": "2026-06-14T22:02:39.917Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -3409,6 +3409,253 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
       "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD",
       "duration_ms": 206872
+    },
+    {
+      "played_at": "2026-06-14T19:22:53.128Z",
+      "name": "hate that i made you love me",
+      "artists": [
+        "Ariana Grande"
+      ],
+      "album": "hate that i made you love me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
+      "uri": "spotify:track:20jbSiX29FDX4oQxBXyUEi",
+      "duration_ms": 197949
+    },
+    {
+      "played_at": "2026-06-14T19:51:08.401Z",
+      "name": "what’s wrong with me",
+      "artists": [
+        "Olivia Rodrigo",
+        "Robert Smith"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:1W7023CuJrWPbD4q2Sipoh",
+      "duration_ms": 224906
+    },
+    {
+      "played_at": "2026-06-14T19:55:10.542Z",
+      "name": "Hate Me (with Juice WRLD)",
+      "artists": [
+        "Ellie Goulding",
+        "Juice WRLD"
+      ],
+      "album": "Hate Me (with Juice WRLD)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc854e032e8588d5e75eebc6",
+      "uri": "spotify:track:6kls8cSlUyHW2BUOkDJIZE",
+      "duration_ms": 186223
+    },
+    {
+      "played_at": "2026-06-14T19:58:29.358Z",
+      "name": "Heartless",
+      "artists": [
+        "The Weeknd"
+      ],
+      "album": "After Hours",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+      "uri": "spotify:track:6bnF93Rx87YqUBLSgjiMU8",
+      "duration_ms": 198266
+    },
+    {
+      "played_at": "2026-06-14T20:25:42.675Z",
+      "name": "Mean girls",
+      "artists": [
+        "Charli xcx"
+      ],
+      "album": "BRAT",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+      "uri": "spotify:track:1qKCO2Tocwg8CbepJ9uDtd",
+      "duration_ms": 189410
+    },
+    {
+      "played_at": "2026-06-14T20:29:01.649Z",
+      "name": "bad idea right?",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "uri": "spotify:track:3IX0yuEVvDbnqUwMBB3ouC",
+      "duration_ms": 184783
+    },
+    {
+      "played_at": "2026-06-14T20:32:41.354Z",
+      "name": "vampire",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
+      "duration_ms": 219724
+    },
+    {
+      "played_at": "2026-06-14T20:35:38.752Z",
+      "name": "lacy",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "uri": "spotify:track:6QT6j7rKt7Vk3IuV2AUO9W",
+      "duration_ms": 177212
+    },
+    {
+      "played_at": "2026-06-14T20:43:19.458Z",
+      "name": "OHFR?",
+      "artists": [
+        "Rico Nasty"
+      ],
+      "album": "OHFR?",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736945ad1f641ae89690b8c670",
+      "uri": "spotify:track:3IBGU1NgiTjDsIJn2Jtdg4",
+      "duration_ms": 120964
+    },
+    {
+      "played_at": "2026-06-14T20:46:55.306Z",
+      "name": "Busy Woman",
+      "artists": [
+        "Sabrina Carpenter"
+      ],
+      "album": "Short n' Sweet (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273047d6b756e8f5e3f8b50f025",
+      "uri": "spotify:track:0b0Dz0Gi86SVdBxYeiQcCP",
+      "duration_ms": 186612
+    },
+    {
+      "played_at": "2026-06-14T20:50:45.278Z",
+      "name": "Girls Like Girls",
+      "artists": [
+        "Hayley Kiyoko"
+      ],
+      "album": "This Side of Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730488b28f942bcedaa3310bb8",
+      "uri": "spotify:track:3dNjUFt6EFU4Gq6Q5vfJqf",
+      "duration_ms": 229655
+    },
+    {
+      "played_at": "2026-06-14T20:54:04.314Z",
+      "name": "Got Me Started",
+      "artists": [
+        "Troye Sivan"
+      ],
+      "album": "Something To Give Each Other",
+      "image": "https://i.scdn.co/image/ab67616d0000b27367103283a4eb57578a428252",
+      "uri": "spotify:track:31MNHKE86sEXzIglbGQ6mu",
+      "duration_ms": 198448
+    },
+    {
+      "played_at": "2026-06-14T20:55:48.159Z",
+      "name": "Super",
+      "artists": [
+        "Bb trickz"
+      ],
+      "album": "80'z",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735dd83173a8d59d092ff17fd5",
+      "uri": "spotify:track:4u5hMlAk0FpBsgReJ7Rpfy",
+      "duration_ms": 103520
+    },
+    {
+      "played_at": "2026-06-14T21:03:22.800Z",
+      "name": "Hate Me (with Juice WRLD)",
+      "artists": [
+        "Ellie Goulding",
+        "Juice WRLD"
+      ],
+      "album": "Hate Me (with Juice WRLD)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc854e032e8588d5e75eebc6",
+      "uri": "spotify:track:6kls8cSlUyHW2BUOkDJIZE",
+      "duration_ms": 186223
+    },
+    {
+      "played_at": "2026-06-14T21:05:56.404Z",
+      "name": "E85",
+      "artists": [
+        "Don Toliver"
+      ],
+      "album": "OCTANE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c28f3c9fbdbab1a88dd619",
+      "uri": "spotify:track:3B4cjvGlPvyBLNG3AzEgkZ",
+      "duration_ms": 153181
+    },
+    {
+      "played_at": "2026-06-14T21:08:26.400Z",
+      "name": "Illegal",
+      "artists": [
+        "PinkPantheress"
+      ],
+      "album": "Fancy That",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d",
+      "uri": "spotify:track:1WmBVbFmLt0w6zPP37TeCG",
+      "duration_ms": 149666
+    },
+    {
+      "played_at": "2026-06-14T21:12:24.220Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "the cure",
+      "image": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a",
+      "uri": "spotify:track:4EoJ151oQ5jY48z4RhSE96",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-06-14T21:15:12.335Z",
+      "name": "SS26",
+      "artists": [
+        "Charli xcx"
+      ],
+      "album": "SS26",
+      "image": "https://i.scdn.co/image/ab67616d0000b273516b540fe2ff881fdc36d7f3",
+      "uri": "spotify:track:3d5NbAerF2MMHw9tdIxiFH",
+      "duration_ms": 167674
+    },
+    {
+      "played_at": "2026-06-14T21:20:29.729Z",
+      "name": "Know Myself",
+      "artists": [
+        "Justine Skye",
+        "Vory"
+      ],
+      "album": "Know Myself",
+      "image": "https://i.scdn.co/image/ab67616d0000b27307ab9fe1dc9606f0677509a8",
+      "uri": "spotify:track:0d8anwJJGti8jE79Y4tXUD",
+      "duration_ms": 167493
+    },
+    {
+      "played_at": "2026-06-14T21:27:09.242Z",
+      "name": "boyfriend (with Social House)",
+      "artists": [
+        "Ariana Grande",
+        "Social House"
+      ],
+      "album": "boyfriend",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732ca010dcf3863a07611d8b4f",
+      "uri": "spotify:track:0Ryd8975WihbObpp5cPW1t",
+      "duration_ms": 186106
+    },
+    {
+      "played_at": "2026-06-14T21:38:59.476Z",
+      "name": "Von dutch",
+      "artists": [
+        "Charli xcx"
+      ],
+      "album": "BRAT",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+      "uri": "spotify:track:3Y1EvIgEVw51XtgNEgpz5c",
+      "duration_ms": 164284
+    },
+    {
+      "played_at": "2026-06-14T21:59:47.741Z",
+      "name": "That’s So True",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "duration_ms": 166300
     }
   ]
 }

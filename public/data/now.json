@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-14T19:09:39.705Z",
-  "is_playing": false,
+  "updated_at": "2026-06-14T22:02:40.072Z",
+  "is_playing": true,
   "track": {
-    "name": "KALAMANTINA / كلمنتينا",
+    "name": "my way",
     "artists": [
-      "Saint Levant",
-      "Marwan Moussa"
+      "Olivia Rodrigo"
     ],
-    "album": "Love Letters / رسائل حب",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a0fce4a818e7d680d6ab5c40",
-    "uri": "spotify:track:3vZ3ngEbunTiK4fOVKyzYD"
+    "album": "you seem pretty sad for a girl so in love",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+    "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf"
   },
-  "played_at": "2026-06-14T18:17:16.175Z"
+  "played_at": "2026-06-14T22:02:40.072Z"
 }
