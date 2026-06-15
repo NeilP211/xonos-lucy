@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T22:02:39.917Z",
+  "updated_at": "2026-06-15T02:47:23.977Z",
   "plays": [
     {
       "played_at": "2026-06-11T04:19:53.598Z",
@@ -3656,6 +3656,209 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
       "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
       "duration_ms": 166300
+    },
+    {
+      "played_at": "2026-06-14T22:03:39.940Z",
+      "name": "my way",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "duration_ms": 180720
+    },
+    {
+      "played_at": "2026-06-14T22:07:40.042Z",
+      "name": "purple",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4XYCWx98N3h7Y4FtDFmpd5",
+      "duration_ms": 240115
+    },
+    {
+      "played_at": "2026-06-14T22:12:11.927Z",
+      "name": "my way",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "duration_ms": 180720
+    },
+    {
+      "played_at": "2026-06-14T22:17:21.743Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-06-14T23:52:48.767Z",
+      "name": "what’s wrong with me",
+      "artists": [
+        "Olivia Rodrigo",
+        "Robert Smith"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:1W7023CuJrWPbD4q2Sipoh",
+      "duration_ms": 224906
+    },
+    {
+      "played_at": "2026-06-14T23:55:56.298Z",
+      "name": "my way",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "duration_ms": 180720
+    },
+    {
+      "played_at": "2026-06-15T00:00:11.722Z",
+      "name": "maggots for brains",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:22l7ocwYpEYGvYpM9T2C5K",
+      "duration_ms": 240100
+    },
+    {
+      "played_at": "2026-06-15T00:03:12.896Z",
+      "name": "my way",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf",
+      "duration_ms": 180720
+    },
+    {
+      "played_at": "2026-06-15T00:12:24.872Z",
+      "name": "Q U E V A S H A C E R H O Y ?",
+      "artists": [
+        "Omar Courtz",
+        "De La Rose"
+      ],
+      "album": "PRIMERA MUSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273996764071dbd5240eefb2422",
+      "uri": "spotify:track:0Sr7ssScx54yxdM2ols7nW",
+      "duration_ms": 224022
+    },
+    {
+      "played_at": "2026-06-15T00:16:23.203Z",
+      "name": "S E X P L A Y L I S T 1",
+      "artists": [
+        "Omar Courtz",
+        "Rauw Alejandro"
+      ],
+      "album": "PRIMERA MUSA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273996764071dbd5240eefb2422",
+      "uri": "spotify:track:7w3G5VXJLLbuaWylG7hvVi",
+      "duration_ms": 237853
+    },
+    {
+      "played_at": "2026-06-15T00:19:16.484Z",
+      "name": "QLONA",
+      "artists": [
+        "KAROL G",
+        "Peso Pluma"
+      ],
+      "album": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734a8c1bbd60d89887c5016245",
+      "uri": "spotify:track:3XB5uhhlYSnkxpSihkNQwh",
+      "duration_ms": 172797
+    },
+    {
+      "played_at": "2026-06-15T00:22:01.722Z",
+      "name": "Knew Better Part Two",
+      "artists": [
+        "Ariana Grande"
+      ],
+      "album": "Dangerous Woman (Tenth Anniversary Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737151e78278fb3e6db94c7132",
+      "uri": "spotify:track:789c3DD8obKdAWe1In9Fp5",
+      "duration_ms": 164772
+    },
+    {
+      "played_at": "2026-06-15T00:26:44.387Z",
+      "name": "Fantasize",
+      "artists": [
+        "Trinity"
+      ],
+      "album": "Fantasize",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f0210f6919c2a843e276b7ee",
+      "uri": "spotify:track:0uP89k566TI7s1yYoiXD3a",
+      "duration_ms": 156300
+    },
+    {
+      "played_at": "2026-06-15T00:29:32.295Z",
+      "name": "Know Myself",
+      "artists": [
+        "Justine Skye",
+        "Vory"
+      ],
+      "album": "Know Myself",
+      "image": "https://i.scdn.co/image/ab67616d0000b27307ab9fe1dc9606f0677509a8",
+      "uri": "spotify:track:0d8anwJJGti8jE79Y4tXUD",
+      "duration_ms": 167493
+    },
+    {
+      "played_at": "2026-06-15T00:33:22.116Z",
+      "name": "GIRLS",
+      "artists": [
+        "The Kid LAROI"
+      ],
+      "album": "GIRLS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8af7237bb25ad59488944c1",
+      "uri": "spotify:track:7z3PblAN3dH1JMewiRydkZ",
+      "duration_ms": 152979
+    },
+    {
+      "played_at": "2026-06-15T00:36:12.324Z",
+      "name": "NOBODY'S GIRL",
+      "artists": [
+        "Tate McRae"
+      ],
+      "album": "SO CLOSE TO WHAT??? (deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c40dccc1952bb5ed96986869",
+      "uri": "spotify:track:2oPCpj9ezVq5D6IJNAGkL2",
+      "duration_ms": 168134
+    },
+    {
+      "played_at": "2026-06-15T00:42:24.966Z",
+      "name": "Sugar Talking",
+      "artists": [
+        "Sabrina Carpenter"
+      ],
+      "album": "Man’s Best Friend",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+      "uri": "spotify:track:5B3GZOZYXNzWpUXQC42hxZ",
+      "duration_ms": 183770
+    },
+    {
+      "played_at": "2026-06-15T00:46:07.713Z",
+      "name": "Don’t Worry I’ll Make You Worry",
+      "artists": [
+        "Sabrina Carpenter"
+      ],
+      "album": "Man’s Best Friend",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+      "uri": "spotify:track:21IVPfi81m6ywNgOvqTj1i",
+      "duration_ms": 222320
     }
   ]
 }

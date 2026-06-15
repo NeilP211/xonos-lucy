@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-14T22:02:40.072Z",
-  "is_playing": true,
+  "updated_at": "2026-06-15T02:47:24.049Z",
+  "is_playing": false,
   "track": {
-    "name": "my way",
+    "name": "Don’t Worry I’ll Make You Worry",
     "artists": [
-      "Olivia Rodrigo"
+      "Sabrina Carpenter"
     ],
-    "album": "you seem pretty sad for a girl so in love",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
-    "uri": "spotify:track:4Ilw2lD6z4WBqh65vUUZUf"
+    "album": "Man’s Best Friend",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b1863bf95557ea7f357c4947",
+    "uri": "spotify:track:21IVPfi81m6ywNgOvqTj1i"
   },
-  "played_at": "2026-06-14T22:02:40.072Z"
+  "played_at": "2026-06-15T00:46:07.713Z"
 }
